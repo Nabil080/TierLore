@@ -1,5 +1,5 @@
 // Cloudflare Workers, static files only.
-// Build command: npm run build   Deploy command: npx wrangler deploy
+// Deployed by .github/workflows/ci.yml on every push to main.
 {
   "name": "tierlore-prototype",
   "compatibility_date": "2026-10-01",
