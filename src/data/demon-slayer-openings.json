@@ -1,0 +1,179 @@
+{
+ "universe": "Demon Slayer",
+ "title": "Demon Slayer Openings",
+ "subtitle": "Kimetsu no Yaiba",
+ "categories": [
+  {
+   "id": "facts",
+   "label": "Fun facts"
+  },
+  {
+   "id": "credits",
+   "label": "Credits"
+  }
+ ],
+ "tiers": [
+  {
+   "id": "S",
+   "label": "S",
+   "color": "#FF5C77"
+  },
+  {
+   "id": "A",
+   "label": "A",
+   "color": "#FF9B54"
+  },
+  {
+   "id": "B",
+   "label": "B",
+   "color": "#FFD35C"
+  },
+  {
+   "id": "C",
+   "label": "C",
+   "color": "#8FDB6E"
+  },
+  {
+   "id": "D",
+   "label": "D",
+   "color": "#5EC4F0"
+  }
+ ],
+ "items": [
+  {
+   "id": "op01",
+   "name": "OP 1 · Gurenge",
+   "shortName": "Gurenge",
+   "subtitle": "LiSA · Season 1",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/YkJvHe3KK2c",
+     "thumb": "/images/demon-slayer-openings/op01-thumb.webp",
+     "caption": "Gurenge by LiSA"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "LiSA",
+       "person": "artist-lisa"
+      }
+     ]
+    }
+   ],
+   "popularity": 11887175
+  },
+  {
+   "id": "op02",
+   "name": "OP 2 · Akeboshi",
+   "shortName": "Akeboshi",
+   "subtitle": "LiSA · Mugen Train Arc",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/XIUDjQ5sVKk",
+     "thumb": "/images/demon-slayer-openings/op02-thumb.webp",
+     "caption": "Akeboshi by LiSA"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "LiSA",
+       "person": "artist-lisa"
+      }
+     ]
+    }
+   ],
+   "popularity": 6595438
+  },
+  {
+   "id": "op03",
+   "name": "OP 3 · Zankyō Sanka",
+   "shortName": "Zankyō Sanka",
+   "subtitle": "Aimer · Entertainment District Arc",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/st4wcpjZeQQ",
+     "thumb": "/images/demon-slayer-openings/op03-thumb.webp",
+     "caption": "Zankyō Sanka by Aimer"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Aimer",
+       "person": "artist-aimer"
+      }
+     ]
+    }
+   ],
+   "popularity": 13601991
+  },
+  {
+   "id": "op04",
+   "name": "OP 4 · Kizuna no Kiseki",
+   "shortName": "Kizuna no Kiseki",
+   "subtitle": "MAN WITH A MISSION × milet · Swordsmith Village Arc",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/OWBCIRhly4U",
+     "thumb": "/images/demon-slayer-openings/op04-thumb.webp",
+     "caption": "Kizuna no Kiseki by MAN WITH A MISSION × milet"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "MAN WITH A MISSION × milet",
+       "person": "artist-man-with-a-mission-milet"
+      }
+     ]
+    }
+   ],
+   "popularity": 7122037
+  },
+  {
+   "id": "op05",
+   "name": "OP 5 · Mugen",
+   "shortName": "Mugen",
+   "subtitle": "MY FIRST STORY × HYDE · Hashira Training Arc",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/WRrZr6k7ZSU",
+     "thumb": "/images/demon-slayer-openings/op05-thumb.webp",
+     "caption": "Mugen by MY FIRST STORY × HYDE"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "MY FIRST STORY × HYDE",
+       "person": "artist-my-first-story-hyde"
+      }
+     ]
+    }
+   ],
+   "popularity": 10266902
+  }
+ ]
+}

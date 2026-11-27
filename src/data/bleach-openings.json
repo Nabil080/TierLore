@@ -1,0 +1,557 @@
+{
+ "universe": "Bleach",
+ "title": "Bleach Openings",
+ "subtitle": "Bleach + Thousand-Year Blood War",
+ "categories": [
+  {
+   "id": "facts",
+   "label": "Fun facts"
+  },
+  {
+   "id": "credits",
+   "label": "Credits"
+  }
+ ],
+ "tiers": [
+  {
+   "id": "S",
+   "label": "S",
+   "color": "#FF5C77"
+  },
+  {
+   "id": "A",
+   "label": "A",
+   "color": "#FF9B54"
+  },
+  {
+   "id": "B",
+   "label": "B",
+   "color": "#FFD35C"
+  },
+  {
+   "id": "C",
+   "label": "C",
+   "color": "#8FDB6E"
+  },
+  {
+   "id": "D",
+   "label": "D",
+   "color": "#5EC4F0"
+  }
+ ],
+ "items": [
+  {
+   "id": "op01",
+   "name": "OP 1 · *~Asterisk~",
+   "shortName": "*~Asterisk~",
+   "subtitle": "Orange Range · episodes 1-25",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/wW9TwZdWpjw",
+     "thumb": "/images/bleach-openings/op01-thumb.webp",
+     "caption": "*~Asterisk~ by Orange Range"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Orange Range",
+       "person": "artist-orange-range"
+      }
+     ]
+    }
+   ],
+   "popularity": 11766078
+  },
+  {
+   "id": "op02",
+   "name": "OP 2 · D-tecnoLife",
+   "shortName": "D-tecnoLife",
+   "subtitle": "UVERworld · episodes 26-51",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/h1MoLQ9Wcv0",
+     "thumb": "/images/bleach-openings/op02-thumb.webp",
+     "caption": "D-tecnoLife by UVERworld"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "UVERworld",
+       "person": "artist-uverworld"
+      }
+     ]
+    }
+   ],
+   "popularity": 5718398
+  },
+  {
+   "id": "op03",
+   "name": "OP 3 · Ichirin no Hana",
+   "shortName": "Ichirin no Hana",
+   "subtitle": "High and Mighty Color · episodes 52-74",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/eIm0dpBjQPg",
+     "thumb": "/images/bleach-openings/op03-thumb.webp",
+     "caption": "Ichirin no Hana by High and Mighty Color"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "High and Mighty Color",
+       "person": "artist-high-and-mighty-color"
+      }
+     ]
+    }
+   ],
+   "popularity": 5446919
+  },
+  {
+   "id": "op04",
+   "name": "OP 4 · Tonight, Tonight, Tonight",
+   "shortName": "Tonight, Tonight, Tonight",
+   "subtitle": "Beat Crusaders · episodes 75-97",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/oi3wY1-EwDs",
+     "thumb": "/images/bleach-openings/op04-thumb.webp",
+     "caption": "Tonight, Tonight, Tonight by Beat Crusaders"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Beat Crusaders",
+       "person": "artist-beat-crusaders"
+      }
+     ]
+    }
+   ],
+   "popularity": 2292711
+  },
+  {
+   "id": "op05",
+   "name": "OP 5 · Rolling Star",
+   "shortName": "Rolling Star",
+   "subtitle": "YUI · episodes 98-120",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/PSDIaaRC3jc",
+     "thumb": "/images/bleach-openings/op05-thumb.webp",
+     "caption": "Rolling Star by YUI"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "YUI",
+       "person": "artist-yui"
+      }
+     ]
+    }
+   ],
+   "popularity": 3146804
+  },
+  {
+   "id": "op06",
+   "name": "OP 6 · Alones",
+   "shortName": "Alones",
+   "subtitle": "Aqua Timez · episodes 121-143",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/WEN4qOcVKeM",
+     "thumb": "/images/bleach-openings/op06-thumb.webp",
+     "caption": "Alones by Aqua Timez"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Aqua Timez",
+       "person": "artist-aqua-timez"
+      }
+     ]
+    }
+   ],
+   "popularity": 5732210
+  },
+  {
+   "id": "op07",
+   "name": "OP 7 · After Dark",
+   "shortName": "After Dark",
+   "subtitle": "Asian Kung-Fu Generation · episodes 144-167",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/Rv5V-5CErRE",
+     "thumb": "/images/bleach-openings/op07-thumb.webp",
+     "caption": "After Dark by Asian Kung-Fu Generation"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Asian Kung-Fu Generation",
+       "person": "artist-asian-kung-fu-generation"
+      }
+     ]
+    }
+   ],
+   "popularity": 5583248
+  },
+  {
+   "id": "op08",
+   "name": "OP 8 · Chu-Bura",
+   "shortName": "Chu-Bura",
+   "subtitle": "Kelun · episodes 168-189",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/cZ8Xpej1hXo",
+     "thumb": "/images/bleach-openings/op08-thumb.webp",
+     "caption": "Chu-Bura by Kelun"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Kelun",
+       "person": "artist-kelun"
+      }
+     ]
+    }
+   ],
+   "popularity": 1955899
+  },
+  {
+   "id": "op09",
+   "name": "OP 9 · Velonica",
+   "shortName": "Velonica",
+   "subtitle": "Aqua Timez · episodes 190-214",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/almG54sVBuw",
+     "thumb": "/images/bleach-openings/op09-thumb.webp",
+     "caption": "Velonica by Aqua Timez"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Aqua Timez",
+       "person": "artist-aqua-timez"
+      }
+     ]
+    }
+   ],
+   "popularity": 4106858
+  },
+  {
+   "id": "op10",
+   "name": "OP 10 · Shōjo S",
+   "shortName": "Shōjo S",
+   "subtitle": "Scandal · episodes 215-242",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/HN_-WaTLD_A",
+     "thumb": "/images/bleach-openings/op10-thumb.webp",
+     "caption": "Shōjo S by Scandal"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Scandal",
+       "person": "artist-scandal"
+      }
+     ]
+    }
+   ],
+   "popularity": 4192683
+  },
+  {
+   "id": "op11",
+   "name": "OP 11 · Anima Rossa",
+   "shortName": "Anima Rossa",
+   "subtitle": "Porno Graffitti · episodes 243-265",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/d3ze_mYwhR0",
+     "thumb": "/images/bleach-openings/op11-thumb.webp",
+     "caption": "Anima Rossa by Porno Graffitti"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Porno Graffitti",
+       "person": "artist-porno-graffitti"
+      }
+     ]
+    }
+   ],
+   "popularity": 1854122
+  },
+  {
+   "id": "op12",
+   "name": "OP 12 · chAngE",
+   "shortName": "chAngE",
+   "subtitle": "miwa · episodes 266-291",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/i0we6am_25g",
+     "thumb": "/images/bleach-openings/op12-thumb.webp",
+     "caption": "chAngE by miwa"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "miwa",
+       "person": "artist-miwa"
+      }
+     ]
+    }
+   ],
+   "popularity": 4572043
+  },
+  {
+   "id": "op13",
+   "name": "OP 13 · Ranbu no Melody",
+   "shortName": "Ranbu no Melody",
+   "subtitle": "SID · episodes 292-316",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/5emM3JGI5JA",
+     "thumb": "/images/bleach-openings/op13-thumb.webp",
+     "caption": "Ranbu no Melody by SID"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "SID",
+       "person": "artist-sid"
+      }
+     ]
+    }
+   ],
+   "popularity": 13550646
+  },
+  {
+   "id": "op14",
+   "name": "OP 14 · Blue",
+   "shortName": "Blue",
+   "subtitle": "ViViD · episodes 317-342",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/lTkCqZA4i3U",
+     "thumb": "/images/bleach-openings/op14-thumb.webp",
+     "caption": "Blue by ViViD"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "ViViD",
+       "person": "artist-vivid"
+      }
+     ]
+    }
+   ],
+   "popularity": 1606001
+  },
+  {
+   "id": "op15",
+   "name": "OP 15 · Harukaze",
+   "shortName": "Harukaze",
+   "subtitle": "Scandal · episodes 343-366",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/T6wo7bfYYu4",
+     "thumb": "/images/bleach-openings/op15-thumb.webp",
+     "caption": "Harukaze by Scandal"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Scandal",
+       "person": "artist-scandal"
+      }
+     ]
+    }
+   ],
+   "popularity": 3034276
+  },
+  {
+   "id": "op16",
+   "name": "OP 16 · Scar",
+   "shortName": "Scar",
+   "subtitle": "Tatsuya Kitani · TYBW part 1",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/mjeR7vUrDvM",
+     "thumb": "/images/bleach-openings/op16-thumb.webp",
+     "caption": "Scar by Tatsuya Kitani"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Tatsuya Kitani",
+       "person": "artist-tatsuya-kitani"
+      }
+     ]
+    }
+   ],
+   "popularity": 11091798
+  },
+  {
+   "id": "op17",
+   "name": "OP 17 · Stars",
+   "shortName": "Stars",
+   "subtitle": "w.o.d. · TYBW part 2",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/bHME-AwOnc4",
+     "thumb": "/images/bleach-openings/op17-thumb.webp",
+     "caption": "Stars by w.o.d."
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "w.o.d.",
+       "person": "artist-wod"
+      }
+     ]
+    }
+   ],
+   "popularity": 4112758
+  },
+  {
+   "id": "op18",
+   "name": "OP 18 · Without Any Words",
+   "shortName": "Without Any Words",
+   "subtitle": "Six Lounge · TYBW part 3",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/ECWciPlUt0s",
+     "thumb": "/images/bleach-openings/op18-thumb.webp",
+     "caption": "Without Any Words by Six Lounge"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Six Lounge",
+       "person": "artist-six-lounge"
+      }
+     ]
+    }
+   ],
+   "popularity": 6105949
+  },
+  {
+   "id": "op19",
+   "name": "OP 19 · I-Bull",
+   "shortName": "I-Bull",
+   "subtitle": "jo0ji · TYBW final part",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/3b00HiT4B04",
+     "thumb": "/images/bleach-openings/op19-thumb.webp",
+     "caption": "I-Bull by jo0ji"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "jo0ji",
+       "person": "artist-jo0ji"
+      }
+     ]
+    }
+   ],
+   "popularity": 1099985
+  }
+ ]
+}

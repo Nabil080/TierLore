@@ -1,0 +1,2793 @@
+{
+ "note": "Bleach TV OST 1-4 + TYBW OST 1-2 in official album order. views = exact sum of YouTube views across the official uploads of each track (Shiro Sagisu - Topic + Anime de Japan), fetched 2026-10-16. videoId = most-viewed playable upload. playable=false: the 3 TV-size vocal themes of OST1 are unavailable on YouTube. popularityRank 1 = most viewed.",
+ "tracks": [
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 1,
+   "title": "On The Precipice Of Defeat",
+   "videoId": "KEKx6Yv4OYk",
+   "duration": "2:58",
+   "views": 8634808,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "KEKx6Yv4OYk",
+     "views": 5474851
+    },
+    {
+     "videoId": "IvxHjs-gjB8",
+     "views": 3159957
+    }
+   ],
+   "popularityRank": 6
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 2,
+   "title": "* Asterisk (OST Version)",
+   "videoId": "ZiIXULnOvNs",
+   "duration": "2:03",
+   "views": 0,
+   "playable": false,
+   "uploads": [
+    {
+     "videoId": "ZiIXULnOvNs",
+     "views": 0
+    }
+   ],
+   "popularityRank": 147
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 3,
+   "title": "Comical World",
+   "videoId": "SUEW671q9S4",
+   "duration": "1:41",
+   "views": 977398,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "f4MmKTOzCEw",
+     "views": 225592
+    },
+    {
+     "videoId": "SUEW671q9S4",
+     "views": 751806
+    }
+   ],
+   "popularityRank": 34
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 4,
+   "title": "Oh So Tired",
+   "videoId": "JjWSuWKkWmg",
+   "duration": "1:39",
+   "views": 805530,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "4abrxMGRZ3E",
+     "views": 172837
+    },
+    {
+     "videoId": "JjWSuWKkWmg",
+     "views": 632693
+    }
+   ],
+   "popularityRank": 41
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 5,
+   "title": "Head In The Clouds",
+   "videoId": "K-4VtZO1a7g",
+   "duration": "1:42",
+   "views": 771101,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ZVQfeZ-e2hs",
+     "views": 172671
+    },
+    {
+     "videoId": "K-4VtZO1a7g",
+     "views": 598430
+    }
+   ],
+   "popularityRank": 45
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 6,
+   "title": "Ditty For Daddy",
+   "videoId": "C7NJ7IaGjYM",
+   "duration": "2:27",
+   "views": 781985,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "2h-Mxss0--8",
+     "views": 164447
+    },
+    {
+     "videoId": "C7NJ7IaGjYM",
+     "views": 617538
+    }
+   ],
+   "popularityRank": 43
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 7,
+   "title": "Creeping Shadows",
+   "videoId": "iILgLk0D0gY",
+   "duration": "2:22",
+   "views": 1809397,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "pmcM8wRyXM4",
+     "views": 810404
+    },
+    {
+     "videoId": "iILgLk0D0gY",
+     "views": 998993
+    }
+   ],
+   "popularityRank": 19
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 8,
+   "title": "Raw Breath Of Danger",
+   "videoId": "TbzvVErq2Ic",
+   "duration": "2:18",
+   "views": 791523,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "VlMQRre2pEc",
+     "views": 215171
+    },
+    {
+     "videoId": "TbzvVErq2Ic",
+     "views": 576352
+    }
+   ],
+   "popularityRank": 42
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 9,
+   "title": "Enemy Unseen",
+   "videoId": "k8R7cs7FnFw",
+   "duration": "2:06",
+   "views": 1052293,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "hK_UGAYQbfE",
+     "views": 395092
+    },
+    {
+     "videoId": "k8R7cs7FnFw",
+     "views": 657201
+    }
+   ],
+   "popularityRank": 31
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 10,
+   "title": "Will Of The Heart",
+   "videoId": "cmpz-PnF76U",
+   "duration": "3:49",
+   "views": 1967997,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "cmpz-PnF76U",
+     "views": 1182496
+    },
+    {
+     "videoId": "7Jb0NP7dEk8",
+     "views": 785501
+    }
+   ],
+   "popularityRank": 16
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 11,
+   "title": "Requiem For The Lost Ones",
+   "videoId": "IOUa_a1wvCw",
+   "duration": "2:17",
+   "views": 1342576,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "IOUa_a1wvCw",
+     "views": 685081
+    },
+    {
+     "videoId": "-LeWJ-5rbM8",
+     "views": 657495
+    }
+   ],
+   "popularityRank": 26
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 12,
+   "title": "Nothing Can Be Explained (Vocal Version)",
+   "videoId": "X34igEEtrac",
+   "duration": "3:28",
+   "views": 4560854,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "X34igEEtrac",
+     "views": 4560854
+    }
+   ],
+   "popularityRank": 9
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 13,
+   "title": "Burden Of The Past",
+   "videoId": "Mn6WrMGWgbs",
+   "duration": "2:23",
+   "views": 666732,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "z7rLI_bb9Xs",
+     "views": 176381
+    },
+    {
+     "videoId": "Mn6WrMGWgbs",
+     "views": 490351
+    }
+   ],
+   "popularityRank": 49
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 14,
+   "title": "Destiny Awaits",
+   "videoId": "v-LwlsDa_hU",
+   "duration": "2:04",
+   "views": 1121629,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "i4tWW0QFOc0",
+     "views": 410429
+    },
+    {
+     "videoId": "v-LwlsDa_hU",
+     "views": 711200
+    }
+   ],
+   "popularityRank": 28
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 15,
+   "title": "Catch 22",
+   "videoId": "DVbZFY6HVMs",
+   "duration": "2:10",
+   "views": 719494,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "WY1y1QpWttA",
+     "views": 211195
+    },
+    {
+     "videoId": "DVbZFY6HVMs",
+     "views": 508299
+    }
+   ],
+   "popularityRank": 47
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 16,
+   "title": "Heat Of The Battle",
+   "videoId": "Oig6DMWtMHE",
+   "duration": "1:27",
+   "views": 894672,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "fTH1A5JmcOA",
+     "views": 390052
+    },
+    {
+     "videoId": "Oig6DMWtMHE",
+     "views": 504620
+    }
+   ],
+   "popularityRank": 37
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 17,
+   "title": "Blaze Of The Soul Reaper",
+   "videoId": "Fq_PzijbBhw",
+   "duration": "2:37",
+   "views": 506407,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "mbnZ1VKAstw",
+     "views": 143879
+    },
+    {
+     "videoId": "Fq_PzijbBhw",
+     "views": 362528
+    }
+   ],
+   "popularityRank": 56
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 18,
+   "title": "Battle Ignition",
+   "videoId": "fKyEtIAUgAA",
+   "duration": "2:16",
+   "views": 2256644,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "fKyEtIAUgAA",
+     "views": 1219879
+    },
+    {
+     "videoId": "iB-r9vcOLfk",
+     "views": 1036765
+    }
+   ],
+   "popularityRank": 15
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 19,
+   "title": "Never Meant To Belong",
+   "videoId": "zO_532nbu0c",
+   "duration": "5:27",
+   "views": 15212414,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "zO_532nbu0c",
+     "views": 15212414
+    }
+   ],
+   "popularityRank": 3
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 20,
+   "title": "Storm Center",
+   "videoId": "1w8pVvKctIg",
+   "duration": "2:40",
+   "views": 1274032,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "1w8pVvKctIg",
+     "views": 1274032
+    }
+   ],
+   "popularityRank": 27
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 21,
+   "title": "Number One (Vocal Version)",
+   "videoId": "9xya0oO5WgA",
+   "duration": "4:57",
+   "views": 10892347,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "9xya0oO5WgA",
+     "views": 10892347
+    }
+   ],
+   "popularityRank": 4
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 22,
+   "title": "Going Home",
+   "videoId": "gGo0gIyWWiQ",
+   "duration": "2:34",
+   "views": 2962407,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "TBRbZaEEeEw",
+     "views": 1375143
+    },
+    {
+     "videoId": "gGo0gIyWWiQ",
+     "views": 1587264
+    }
+   ],
+   "popularityRank": 12
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 23,
+   "title": "Life is Like a Boat (TV size Version)",
+   "videoId": "be_ZiRSqptw",
+   "duration": "1:03",
+   "views": 0,
+   "playable": false,
+   "uploads": [
+    {
+     "videoId": "be_ZiRSqptw",
+     "views": 0
+    }
+   ],
+   "popularityRank": 148
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 24,
+   "title": "Peaceful Afternoon",
+   "videoId": "m52I4gEBLwY",
+   "duration": "2:09",
+   "views": 523517,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "zCiX0zXzWAE",
+     "views": 213961
+    },
+    {
+     "videoId": "m52I4gEBLwY",
+     "views": 309556
+    }
+   ],
+   "popularityRank": 55
+  },
+  {
+   "album": "TV OST 1 (2005)",
+   "track": 25,
+   "title": "Thank You (TV size Version)",
+   "videoId": "GjNNkxJkliY",
+   "duration": "1:00",
+   "views": 0,
+   "playable": false,
+   "uploads": [
+    {
+     "videoId": "GjNNkxJkliY",
+     "views": 0
+    }
+   ],
+   "popularityRank": 149
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 1,
+   "title": "Choked",
+   "videoId": "6GAKK7g9kUc",
+   "duration": "1:50",
+   "views": 304281,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "F36k0tInd5o",
+     "views": 81669
+    },
+    {
+     "videoId": "6GAKK7g9kUc",
+     "views": 222612
+    }
+   ],
+   "popularityRank": 78
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 2,
+   "title": "Emergence Of The Haunted",
+   "videoId": "lf2F0v4N9vY",
+   "duration": "2:24",
+   "views": 440887,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "bKn41MIFpz4",
+     "views": 150867
+    },
+    {
+     "videoId": "lf2F0v4N9vY",
+     "views": 290020
+    }
+   ],
+   "popularityRank": 62
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 3,
+   "title": "On The Verge Of Insanity",
+   "videoId": "ZuVzziwyMoo",
+   "duration": "2:19",
+   "views": 411886,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "RmSyCfgqj94",
+     "views": 175386
+    },
+    {
+     "videoId": "ZuVzziwyMoo",
+     "views": 236500
+    }
+   ],
+   "popularityRank": 65
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 4,
+   "title": "Confrontation",
+   "videoId": "qJN9cw0ci-o",
+   "duration": "1:53",
+   "views": 415965,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "TNeZXas0U3I",
+     "views": 191780
+    },
+    {
+     "videoId": "qJN9cw0ci-o",
+     "views": 224185
+    }
+   ],
+   "popularityRank": 64
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 5,
+   "title": "Diago 45 Tango",
+   "videoId": "f_7DdDUfhXA",
+   "duration": "1:47",
+   "views": 240304,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Cim_7GgQYbE",
+     "views": 50453
+    },
+    {
+     "videoId": "f_7DdDUfhXA",
+     "views": 189851
+    }
+   ],
+   "popularityRank": 94
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 6,
+   "title": "Dodo Dance",
+   "videoId": "_0Y8CDCOVRU",
+   "duration": "1:50",
+   "views": 264128,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "AGI2yN2868c",
+     "views": 48631
+    },
+    {
+     "videoId": "_0Y8CDCOVRU",
+     "views": 215497
+    }
+   ],
+   "popularityRank": 89
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 7,
+   "title": "Splaaash Boogie",
+   "videoId": "ezvVxeJQWrE",
+   "duration": "2:22",
+   "views": 268769,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "_RSprIGTUfU",
+     "views": 47563
+    },
+    {
+     "videoId": "ezvVxeJQWrE",
+     "views": 221206
+    }
+   ],
+   "popularityRank": 86
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 8,
+   "title": "Ominous Premonition",
+   "videoId": "sNSrpNiwizU",
+   "duration": "2:08",
+   "views": 283111,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "LEaVZmx_ky0",
+     "views": 64713
+    },
+    {
+     "videoId": "sNSrpNiwizU",
+     "views": 218398
+    }
+   ],
+   "popularityRank": 83
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 9,
+   "title": "Phenomena",
+   "videoId": "qWXF-KOy__g",
+   "duration": "2:21",
+   "views": 368572,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Sdmgrm-U2K0",
+     "views": 154207
+    },
+    {
+     "videoId": "qWXF-KOy__g",
+     "views": 214365
+    }
+   ],
+   "popularityRank": 69
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 10,
+   "title": "Demolition Drive",
+   "videoId": "VGhE1D1Txcg",
+   "duration": "2:00",
+   "views": 213224,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "kEs-uU2hozc",
+     "views": 51290
+    },
+    {
+     "videoId": "VGhE1D1Txcg",
+     "views": 161934
+    }
+   ],
+   "popularityRank": 102
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 11,
+   "title": "Here To Stay",
+   "videoId": "vYCmdYUSOxA",
+   "duration": "3:01",
+   "views": 3926835,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "vYCmdYUSOxA",
+     "views": 3926835
+    }
+   ],
+   "popularityRank": 10
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 12,
+   "title": "A Requiem",
+   "videoId": "QTikgRlh5A0",
+   "duration": "2:28",
+   "views": 638225,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "7pWww56B2es",
+     "views": 286332
+    },
+    {
+     "videoId": "QTikgRlh5A0",
+     "views": 351893
+    }
+   ],
+   "popularityRank": 51
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 13,
+   "title": "Compassion",
+   "videoId": "RN7rdUnYysI",
+   "duration": "2:47",
+   "views": 458095,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "1Wdizp_kTuc",
+     "views": 210707
+    },
+    {
+     "videoId": "RN7rdUnYysI",
+     "views": 247388
+    }
+   ],
+   "popularityRank": 60
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 14,
+   "title": "Citadel Of The Bount",
+   "videoId": "lIU_W4boby8",
+   "duration": "2:28",
+   "views": 283497,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "zHti3P4qMBw",
+     "views": 70134
+    },
+    {
+     "videoId": "lIU_W4boby8",
+     "views": 213363
+    }
+   ],
+   "popularityRank": 82
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 15,
+   "title": "The Calling",
+   "videoId": "9mogEgziLJI",
+   "duration": "2:06",
+   "views": 290175,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "4kgqwPL_VDI",
+     "views": 77219
+    },
+    {
+     "videoId": "9mogEgziLJI",
+     "views": 212956
+    }
+   ],
+   "popularityRank": 79
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 16,
+   "title": "Shadow's Masquerade",
+   "videoId": "10syIjHxwzc",
+   "duration": "2:30",
+   "views": 1487446,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Ej0FDtPx4vo",
+     "views": 512712
+    },
+    {
+     "videoId": "10syIjHxwzc",
+     "views": 974734
+    }
+   ],
+   "popularityRank": 22
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 17,
+   "title": "Whisper Of The Apocalypse",
+   "videoId": "gphqAumZugE",
+   "duration": "3:01",
+   "views": 329734,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ulzq27Qup0Y",
+     "views": 121296
+    },
+    {
+     "videoId": "gphqAumZugE",
+     "views": 208438
+    }
+   ],
+   "popularityRank": 75
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 18,
+   "title": "Back To The Wall",
+   "videoId": "f_Ckt_GuJC4",
+   "duration": "1:56",
+   "views": 338551,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "0UQmlB-qy5k",
+     "views": 144646
+    },
+    {
+     "videoId": "f_Ckt_GuJC4",
+     "views": 193905
+    }
+   ],
+   "popularityRank": 74
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 19,
+   "title": "Rage Of Lunacy",
+   "videoId": "s1bXsJH6rQw",
+   "duration": "2:20",
+   "views": 227093,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "9YgP-KzA0rM",
+     "views": 63828
+    },
+    {
+     "videoId": "s1bXsJH6rQw",
+     "views": 163265
+    }
+   ],
+   "popularityRank": 101
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 20,
+   "title": "Torn Apart",
+   "videoId": "S-5Fn103TaY",
+   "duration": "2:44",
+   "views": 2507356,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ljzCzxZJg8Y",
+     "views": 1103193
+    },
+    {
+     "videoId": "S-5Fn103TaY",
+     "views": 1404163
+    }
+   ],
+   "popularityRank": 13
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 21,
+   "title": "Swan Song",
+   "videoId": "3Nx_bbHrR5A",
+   "duration": "3:26",
+   "views": 314190,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "wGdj0035KVA",
+     "views": 90765
+    },
+    {
+     "videoId": "3Nx_bbHrR5A",
+     "views": 223425
+    }
+   ],
+   "popularityRank": 77
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 22,
+   "title": "999",
+   "videoId": "CtLKaXTB1jg",
+   "duration": "2:30",
+   "views": 286335,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "XPi3prbUdj0",
+     "views": 88555
+    },
+    {
+     "videoId": "CtLKaXTB1jg",
+     "views": 197780
+    }
+   ],
+   "popularityRank": 81
+  },
+  {
+   "album": "TV OST 2 (2006)",
+   "track": 23,
+   "title": "Number One (Nas-T Mix)",
+   "videoId": "ze_alklxQtA",
+   "duration": "5:08",
+   "views": 197528,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ze_alklxQtA",
+     "views": 197528
+    }
+   ],
+   "popularityRank": 104
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 1,
+   "title": "La Distancia Para Un Duelo",
+   "videoId": "NlZVSsHtIhQ",
+   "duration": "2:58",
+   "views": 16440590,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "NlZVSsHtIhQ",
+     "views": 10911423
+    },
+    {
+     "videoId": "nGusAJYHcjo",
+     "views": 5529167
+    }
+   ],
+   "popularityRank": 2
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 2,
+   "title": "Principio De Lucha",
+   "videoId": "omjLsvD5kwQ",
+   "duration": "2:30",
+   "views": 1928846,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "omjLsvD5kwQ",
+     "views": 1928846
+    }
+   ],
+   "popularityRank": 17
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 3,
+   "title": "Nube Negra",
+   "videoId": "MBJcmVQC2WI",
+   "duration": "1:56",
+   "views": 7310474,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "MBJcmVQC2WI",
+     "views": 7310474
+    }
+   ],
+   "popularityRank": 7
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 4,
+   "title": "Clavar La Espada",
+   "videoId": "Z9Onb_z0XPI",
+   "duration": "3:40",
+   "views": 23323025,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Z9Onb_z0XPI",
+     "views": 23323025
+    }
+   ],
+   "popularityRank": 1
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 5,
+   "title": "No Regresar",
+   "videoId": "w0a97yOKnwA",
+   "duration": "1:55",
+   "views": 1522022,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "w0a97yOKnwA",
+     "views": 1522022
+    }
+   ],
+   "popularityRank": 21
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 6,
+   "title": "Fiesta De Guerra",
+   "videoId": "4v6dp2N3e8U",
+   "duration": "2:29",
+   "views": 5113454,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "4v6dp2N3e8U",
+     "views": 5113454
+    }
+   ],
+   "popularityRank": 8
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 7,
+   "title": "Batalla, Batalla",
+   "videoId": "y6EIKdMBTH0",
+   "duration": "1:55",
+   "views": 748080,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "y6EIKdMBTH0",
+     "views": 375745
+    },
+    {
+     "videoId": "6YbTaf1MmjI",
+     "views": 372335
+    }
+   ],
+   "popularityRank": 46
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 8,
+   "title": "Andar Errante",
+   "videoId": "s5NqiazRQ48",
+   "duration": "0:57",
+   "views": 370766,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "s5NqiazRQ48",
+     "views": 370766
+    }
+   ],
+   "popularityRank": 68
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 9,
+   "title": "Get Smart!",
+   "videoId": "U3Vngcuml0k",
+   "duration": "3:12",
+   "views": 499448,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "lCClwPHTK24",
+     "views": 243076
+    },
+    {
+     "videoId": "U3Vngcuml0k",
+     "views": 256372
+    }
+   ],
+   "popularityRank": 57
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 10,
+   "title": "Escalon",
+   "videoId": "fZx7yUztxJ0",
+   "duration": "3:44",
+   "views": 10280739,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "6MelzhSUXPE",
+     "views": 3795384
+    },
+    {
+     "videoId": "fZx7yUztxJ0",
+     "views": 6485355
+    }
+   ],
+   "popularityRank": 5
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 11,
+   "title": "Shady Charade",
+   "videoId": "FfJ7yoAjWD0",
+   "duration": "4:17",
+   "views": 342395,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "oLr1uoNCDK8",
+     "views": 154611
+    },
+    {
+     "videoId": "FfJ7yoAjWD0",
+     "views": 187784
+    }
+   ],
+   "popularityRank": 73
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 12,
+   "title": "Quincy's Craft",
+   "videoId": "wmle0wTe_nw",
+   "duration": "2:16",
+   "views": 1885408,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "wmle0wTe_nw",
+     "views": 1885408
+    }
+   ],
+   "popularityRank": 18
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 13,
+   "title": "Dominio Del Chad",
+   "videoId": "yhHANN5FQAY",
+   "duration": "2:25",
+   "views": 281961,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "eFb_sbwx1bw",
+     "views": 103471
+    },
+    {
+     "videoId": "yhHANN5FQAY",
+     "views": 178490
+    }
+   ],
+   "popularityRank": 84
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 14,
+   "title": "KO",
+   "videoId": "aS9_gmwtViE",
+   "duration": "1:39",
+   "views": 192411,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "YY4F_OqkCc8",
+     "views": 65636
+    },
+    {
+     "videoId": "aS9_gmwtViE",
+     "views": 126775
+    }
+   ],
+   "popularityRank": 105
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 15,
+   "title": "Magot's Dance",
+   "videoId": "MdLwWgVm3Lk",
+   "duration": "1:29",
+   "views": 171142,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "dPrQk0mdk-4",
+     "views": 59553
+    },
+    {
+     "videoId": "MdLwWgVm3Lk",
+     "views": 111589
+    }
+   ],
+   "popularityRank": 109
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 16,
+   "title": "Orihime's Line",
+   "videoId": "uktGqLOBbVU",
+   "duration": "2:15",
+   "views": 353739,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "uktGqLOBbVU",
+     "views": 353739
+    }
+   ],
+   "popularityRank": 72
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 17,
+   "title": "Soundscape To Ardor",
+   "videoId": "5Xm0ir8OPGQ",
+   "duration": "2:49",
+   "views": 3741441,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "5Xm0ir8OPGQ",
+     "views": 2563605
+    },
+    {
+     "videoId": "SqCKBcwNBrg",
+     "views": 1177836
+    }
+   ],
+   "popularityRank": 11
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 18,
+   "title": "Hollowed",
+   "videoId": "mwkhUlvJuFI",
+   "duration": "1:44",
+   "views": 966233,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "mwkhUlvJuFI",
+     "views": 966233
+    }
+   ],
+   "popularityRank": 35
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 19,
+   "title": "Anguish",
+   "videoId": "5IntX58NHgM",
+   "duration": "2:18",
+   "views": 268556,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "cydZRD-Mf7A",
+     "views": 88213
+    },
+    {
+     "videoId": "5IntX58NHgM",
+     "views": 180343
+    }
+   ],
+   "popularityRank": 87
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 20,
+   "title": "Princess In Captivity",
+   "videoId": "HBG9pOD-Y5E",
+   "duration": "2:01",
+   "views": 179480,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "HBG9pOD-Y5E",
+     "views": 179480
+    }
+   ],
+   "popularityRank": 107
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 21,
+   "title": "Cops'n Robbers",
+   "videoId": "s9NAXmbaVQ4",
+   "duration": "1:21",
+   "views": 161540,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "DFqR9pVZpdk",
+     "views": 51937
+    },
+    {
+     "videoId": "s9NAXmbaVQ4",
+     "views": 109603
+    }
+   ],
+   "popularityRank": 110
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 22,
+   "title": "Dancin' In The Dunes",
+   "videoId": "YHoVmD4p2Yg",
+   "duration": "2:45",
+   "views": 125909,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "YHoVmD4p2Yg",
+     "views": 125909
+    }
+   ],
+   "popularityRank": 117
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 23,
+   "title": "Can't Back Down",
+   "videoId": "5cvNN0959Rg",
+   "duration": "1:59",
+   "views": 358781,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ZqW__l1QoCU",
+     "views": 83629
+    },
+    {
+     "videoId": "5cvNN0959Rg",
+     "views": 275152
+    }
+   ],
+   "popularityRank": 71
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 24,
+   "title": "Scoundrels",
+   "videoId": "8Ch2rQOGeww",
+   "duration": "2:22",
+   "views": 234425,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "41xuKisPfwQ",
+     "views": 77103
+    },
+    {
+     "videoId": "8Ch2rQOGeww",
+     "views": 157322
+    }
+   ],
+   "popularityRank": 96
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 25,
+   "title": "Yours Truly",
+   "videoId": "O1rQw3mzOxo",
+   "duration": "0:25",
+   "views": 119666,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "O1rQw3mzOxo",
+     "views": 119666
+    }
+   ],
+   "popularityRank": 118
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 26,
+   "title": "Turkish Delight",
+   "videoId": "g7RCaEvzgO0",
+   "duration": "0:30",
+   "views": 106134,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "g7RCaEvzgO0",
+     "views": 106134
+    }
+   ],
+   "popularityRank": 125
+  },
+  {
+   "album": "TV OST 3 (2008)",
+   "track": 27,
+   "title": "Ola! Arrancar Remix!!",
+   "videoId": "3m4eClh9qr8",
+   "duration": "6:35",
+   "views": 181332,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "3m4eClh9qr8",
+     "views": 181332
+    }
+   ],
+   "popularityRank": 106
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 1,
+   "title": "Muramasa",
+   "videoId": "nUJ3dJtWKOk",
+   "duration": "5:46",
+   "views": 177871,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "yYrn-jD7Lb8",
+     "views": 45222
+    },
+    {
+     "videoId": "nUJ3dJtWKOk",
+     "views": 132649
+    }
+   ],
+   "popularityRank": 108
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 2,
+   "title": "The Other Tales Of Zanpakuto",
+   "videoId": "gv6sw_zlwlE",
+   "duration": "4:16",
+   "views": 155307,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "n0FEJhdYCKw",
+     "views": 44013
+    },
+    {
+     "videoId": "gv6sw_zlwlE",
+     "views": 111294
+    }
+   ],
+   "popularityRank": 112
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 3,
+   "title": "Nothing But Happiness",
+   "videoId": "E1TXkq1wewY",
+   "duration": "1:59",
+   "views": 111092,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Jf8yXeVx7F8",
+     "views": 25182
+    },
+    {
+     "videoId": "E1TXkq1wewY",
+     "views": 85910
+    }
+   ],
+   "popularityRank": 123
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 4,
+   "title": "Power To Strive",
+   "videoId": "JtSY9NeOFeo",
+   "duration": "2:20",
+   "views": 1430978,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "baIwO_XZU8o",
+     "views": 533932
+    },
+    {
+     "videoId": "JtSY9NeOFeo",
+     "views": 897046
+    }
+   ],
+   "popularityRank": 24
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 5,
+   "title": "Days For The Past",
+   "videoId": "SEBDijfWSa4",
+   "duration": "2:03",
+   "views": 107554,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ClQclhbP1CU",
+     "views": 26011
+    },
+    {
+     "videoId": "SEBDijfWSa4",
+     "views": 81543
+    }
+   ],
+   "popularityRank": 124
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 6,
+   "title": "Battle For Justice",
+   "videoId": "OB-ZhRBkPpQ",
+   "duration": "2:00",
+   "views": 117632,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "n6atmkcGrrU",
+     "views": 28732
+    },
+    {
+     "videoId": "OB-ZhRBkPpQ",
+     "views": 88900
+    }
+   ],
+   "popularityRank": 120
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 7,
+   "title": "Can't Lose",
+   "videoId": "SgpPg0INEzw",
+   "duration": "3:33",
+   "views": 158139,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "I8BAHb-s9qk",
+     "views": 61201
+    },
+    {
+     "videoId": "SgpPg0INEzw",
+     "views": 96938
+    }
+   ],
+   "popularityRank": 111
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 8,
+   "title": "Hidden Situation",
+   "videoId": "hRB5PcHD1ss",
+   "duration": "1:48",
+   "views": 103396,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "kxK_yPQSVk0",
+     "views": 25885
+    },
+    {
+     "videoId": "hRB5PcHD1ss",
+     "views": 77511
+    }
+   ],
+   "popularityRank": 126
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 9,
+   "title": "Beaming Spirit",
+   "videoId": "VIQGBIkIYnc",
+   "duration": "2:15",
+   "views": 87643,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "QE2XAHfzLpU",
+     "views": 18424
+    },
+    {
+     "videoId": "VIQGBIkIYnc",
+     "views": 69219
+    }
+   ],
+   "popularityRank": 136
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 10,
+   "title": "Lingering Anxiety",
+   "videoId": "mPntaQo-914",
+   "duration": "2:40",
+   "views": 91497,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "sCgUulZpXYo",
+     "views": 21015
+    },
+    {
+     "videoId": "mPntaQo-914",
+     "views": 70482
+    }
+   ],
+   "popularityRank": 132
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 11,
+   "title": "Doomful Presence",
+   "videoId": "TtQ5e7nmj08",
+   "duration": "2:51",
+   "views": 99086,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "23Eug07CJe4",
+     "views": 23417
+    },
+    {
+     "videoId": "TtQ5e7nmj08",
+     "views": 75669
+    }
+   ],
+   "popularityRank": 128
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 12,
+   "title": "Utopia",
+   "videoId": "HB4gwyiieOo",
+   "duration": "1:36",
+   "views": 91272,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "LP4L3cMDT4I",
+     "views": 21322
+    },
+    {
+     "videoId": "HB4gwyiieOo",
+     "views": 69950
+    }
+   ],
+   "popularityRank": 133
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 13,
+   "title": "Swinging The Sword",
+   "videoId": "lhyA4GzKlcg",
+   "duration": "1:37",
+   "views": 87486,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "lhyA4GzKlcg",
+     "views": 87486
+    }
+   ],
+   "popularityRank": 137
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 14,
+   "title": "Pleasures Of Combat",
+   "videoId": "En780wI6PYs",
+   "duration": "2:33",
+   "views": 491767,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "nt_Ret8nLhc",
+     "views": 241934
+    },
+    {
+     "videoId": "En780wI6PYs",
+     "views": 249833
+    }
+   ],
+   "popularityRank": 59
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 15,
+   "title": "The One Path To Take",
+   "videoId": "qcal517jqMM",
+   "duration": "2:57",
+   "views": 98579,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "pPdc-IdRa9g",
+     "views": 22066
+    },
+    {
+     "videoId": "qcal517jqMM",
+     "views": 76513
+    }
+   ],
+   "popularityRank": 129
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 16,
+   "title": "Unstoppable Battle",
+   "videoId": "5Z2gFbLul4s",
+   "duration": "3:21",
+   "views": 91973,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "WOdw8NLNSmM",
+     "views": 20744
+    },
+    {
+     "videoId": "5Z2gFbLul4s",
+     "views": 71229
+    }
+   ],
+   "popularityRank": 131
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 17,
+   "title": "Battle For Bond",
+   "videoId": "gZzhKpH9ONI",
+   "duration": "1:17",
+   "views": 117026,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "1tzJxrZl7lU",
+     "views": 49145
+    },
+    {
+     "videoId": "gZzhKpH9ONI",
+     "views": 67881
+    }
+   ],
+   "popularityRank": 121
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 18,
+   "title": "Mysterious",
+   "videoId": "RtYuyeQFSqo",
+   "duration": "4:03",
+   "views": 227963,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "RtYuyeQFSqo",
+     "views": 227963
+    }
+   ],
+   "popularityRank": 100
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 19,
+   "title": "Number One's One Else",
+   "videoId": "3arDJyOJSbM",
+   "duration": "4:54",
+   "views": 2325914,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "3arDJyOJSbM",
+     "views": 1331833
+    },
+    {
+     "videoId": "-DLBkEUw_AM",
+     "views": 994081
+    }
+   ],
+   "popularityRank": 14
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 20,
+   "title": "Nothing Can Be Explained (Instrumental Version)",
+   "videoId": "rVo0J0vjQEo",
+   "duration": "3:30",
+   "views": 1478455,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "rVo0J0vjQEo",
+     "views": 862176
+    },
+    {
+     "videoId": "KlCbhyd_vKQ",
+     "views": 616279
+    }
+   ],
+   "popularityRank": 23
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 21,
+   "title": "Vanishing Soul",
+   "videoId": "I8U8n1XywIc",
+   "duration": "1:45",
+   "views": 89637,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "lsgOfGdpBsY",
+     "views": 19683
+    },
+    {
+     "videoId": "I8U8n1XywIc",
+     "views": 69954
+    }
+   ],
+   "popularityRank": 134
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 22,
+   "title": "Driven Into Fear",
+   "videoId": "KIxAm3l1Y8I",
+   "duration": "3:29",
+   "views": 102224,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "kh_YekppCQg",
+     "views": 28360
+    },
+    {
+     "videoId": "KIxAm3l1Y8I",
+     "views": 73864
+    }
+   ],
+   "popularityRank": 127
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 23,
+   "title": "Wrapped In Kindness",
+   "videoId": "0jkjIE6zhGY",
+   "duration": "4:24",
+   "views": 118668,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "UkTWQ0w3gH0",
+     "views": 47109
+    },
+    {
+     "videoId": "0jkjIE6zhGY",
+     "views": 71559
+    }
+   ],
+   "popularityRank": 119
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 24,
+   "title": "Japomula 01",
+   "videoId": "LP1nIETy_T4",
+   "duration": "0:39",
+   "views": 25426,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "LP1nIETy_T4",
+     "views": 25426
+    }
+   ],
+   "popularityRank": 143
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 25,
+   "title": "Japomula 02",
+   "videoId": "vsTiEUK711Q",
+   "duration": "0:41",
+   "views": 16892,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "vsTiEUK711Q",
+     "views": 16892
+    }
+   ],
+   "popularityRank": 145
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 26,
+   "title": "Bleach Jingle 452",
+   "videoId": "GGH3mbv01ps",
+   "duration": "0:14",
+   "views": 15634,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "GGH3mbv01ps",
+     "views": 15634
+    }
+   ],
+   "popularityRank": 146
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 27,
+   "title": "Bleach Jingle 451",
+   "videoId": "OtSTAG5EPFI",
+   "duration": "0:17",
+   "views": 34497,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "OtSTAG5EPFI",
+     "views": 34497
+    }
+   ],
+   "popularityRank": 142
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 28,
+   "title": "Ominous Presence",
+   "videoId": "9DW7_tWQHW4",
+   "duration": "0:14",
+   "views": 19318,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "9DW7_tWQHW4",
+     "views": 19318
+    }
+   ],
+   "popularityRank": 144
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 29,
+   "title": "Karakurizer",
+   "videoId": "D1o4gmiQLMY",
+   "duration": "1:52",
+   "views": 78890,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "HIqJX0egJWQ",
+     "views": 14098
+    },
+    {
+     "videoId": "D1o4gmiQLMY",
+     "views": 64792
+    }
+   ],
+   "popularityRank": 139
+  },
+  {
+   "album": "TV OST 4 (2009)",
+   "track": 30,
+   "title": "Number One (Instrumental Version)",
+   "videoId": "kG4C1VP3YBk",
+   "duration": "4:55",
+   "views": 228171,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "kG4C1VP3YBk",
+     "views": 228171
+    }
+   ],
+   "popularityRank": 99
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 1,
+   "title": "On the precipice - orchestra 2022",
+   "videoId": "ovpYKG2qioE",
+   "duration": "2:03",
+   "views": 1011819,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ovpYKG2qioE",
+     "views": 984913
+    },
+    {
+     "videoId": "NxrUpRRqjYc",
+     "views": 26906
+    }
+   ],
+   "popularityRank": 32
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 2,
+   "title": "1142 TYBW piano synth suspense",
+   "videoId": "kNAZ7uakKbA",
+   "duration": "2:39",
+   "views": 359074,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "kNAZ7uakKbA",
+     "views": 346557
+    },
+    {
+     "videoId": "a67LT9vvuX4",
+     "views": 12517
+    }
+   ],
+   "popularityRank": 70
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 3,
+   "title": "Hollow zombie TYBW",
+   "videoId": "A73_ZSI0pJs",
+   "duration": "0:27",
+   "views": 276807,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "A73_ZSI0pJs",
+     "views": 266132
+    },
+    {
+     "videoId": "P0UnqEUFjpY",
+     "views": 10675
+    }
+   ],
+   "popularityRank": 85
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 4,
+   "title": "1130 TYBW full of guitars",
+   "videoId": "YReZjDzahgY",
+   "duration": "4:43",
+   "views": 492523,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "YReZjDzahgY",
+     "views": 481414
+    },
+    {
+     "videoId": "KMXmj1PT880",
+     "views": 11109
+    }
+   ],
+   "popularityRank": 58
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 5,
+   "title": "1130 TYBW full orchestra choir",
+   "videoId": "jT3lsH02drQ",
+   "duration": "2:42",
+   "views": 1349561,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "jT3lsH02drQ",
+     "views": 1310883
+    },
+    {
+     "videoId": "D8DBnPXmG9s",
+     "views": 38678
+    }
+   ],
+   "popularityRank": 25
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 6,
+   "title": "1142 TYBW full orchestra choir",
+   "videoId": "fmA1rfWyL4k",
+   "duration": "2:30",
+   "views": 1081540,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "fmA1rfWyL4k",
+     "views": 1058367
+    },
+    {
+     "videoId": "BCKDG2XHF8s",
+     "views": 23173
+    }
+   ],
+   "popularityRank": 30
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 7,
+   "title": "34 to 74 TYBW full orchestra choir",
+   "videoId": "PJb-YYxjOHk",
+   "duration": "2:19",
+   "views": 373815,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "PJb-YYxjOHk",
+     "views": 361159
+    },
+    {
+     "videoId": "Avfnx_XzzPo",
+     "views": 12656
+    }
+   ],
+   "popularityRank": 67
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 8,
+   "title": "Cello solo by Martin Loveday",
+   "videoId": "PggTMMpMyxs",
+   "duration": "2:04",
+   "views": 247943,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "PggTMMpMyxs",
+     "views": 238874
+    },
+    {
+     "videoId": "FrEe6kBVEFI",
+     "views": 9069
+    }
+   ],
+   "popularityRank": 91
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 9,
+   "title": "Blaze of soul - orchestra 2022",
+   "videoId": "FzRXfkFNub8",
+   "duration": "1:53",
+   "views": 289562,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "FzRXfkFNub8",
+     "views": 279133
+    },
+    {
+     "videoId": "oKVROvQD95k",
+     "views": 10429
+    }
+   ],
+   "popularityRank": 80
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 10,
+   "title": "Hollowed 2022 B type",
+   "videoId": "P9a5wugjyiA",
+   "duration": "1:46",
+   "views": 327027,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "P9a5wugjyiA",
+     "views": 316941
+    },
+    {
+     "videoId": "-u9z53DDCTA",
+     "views": 10086
+    }
+   ],
+   "popularityRank": 76
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 11,
+   "title": "1151 TYBW intro fanfare",
+   "videoId": "xd2eESpX4o4",
+   "duration": "0:43",
+   "views": 259564,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "xd2eESpX4o4",
+     "views": 249934
+    },
+    {
+     "videoId": "mo_Xqlx1BOg",
+     "views": 9630
+    }
+   ],
+   "popularityRank": 90
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 12,
+   "title": "On the precipice - post grunge 2022",
+   "videoId": "YUXwWQpJhds",
+   "duration": "3:17",
+   "views": 398395,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "YUXwWQpJhds",
+     "views": 388374
+    },
+    {
+     "videoId": "U9uI33MJtmw",
+     "views": 10021
+    }
+   ],
+   "popularityRank": 66
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 13,
+   "title": "Dark 2211 TYBW full orchestra",
+   "videoId": "Ti8sG01zg-0",
+   "duration": "2:25",
+   "views": 660197,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Ti8sG01zg-0",
+     "views": 634229
+    },
+    {
+     "videoId": "PaPT1gKf4V8",
+     "views": 25968
+    }
+   ],
+   "popularityRank": 50
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 14,
+   "title": "1133 TYBW CH united",
+   "videoId": "hBpe8s48p9g",
+   "duration": "4:03",
+   "views": 780871,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "hBpe8s48p9g",
+     "views": 766344
+    },
+    {
+     "videoId": "EUpWSXT-ANM",
+     "views": 14527
+    }
+   ],
+   "popularityRank": 44
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 15,
+   "title": "2202 TYBW suspense",
+   "videoId": "9qMTub5XH2E",
+   "duration": "2:08",
+   "views": 245544,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "9qMTub5XH2E",
+     "views": 236102
+    },
+    {
+     "videoId": "-Qjrrf5B2VM",
+     "views": 9442
+    }
+   ],
+   "popularityRank": 92
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 16,
+   "title": "1130 TYBW violin viola duo",
+   "videoId": "DUOb-T30uak",
+   "duration": "2:24",
+   "views": 241594,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "DUOb-T30uak",
+     "views": 233573
+    },
+    {
+     "videoId": "Jxc76bgdRmQ",
+     "views": 8021
+    }
+   ],
+   "popularityRank": 93
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 17,
+   "title": "Soundscape to ardor - harp 2022",
+   "videoId": "dFIAU3nyHBk",
+   "duration": "2:54",
+   "views": 423435,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "dFIAU3nyHBk",
+     "views": 412049
+    },
+    {
+     "videoId": "KBDlbjGT-U4",
+     "views": 11386
+    }
+   ],
+   "popularityRank": 63
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 18,
+   "title": "2219 TYBW racy orchestra",
+   "videoId": "tvXnQya1xgs",
+   "duration": "3:11",
+   "views": 856508,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "tvXnQya1xgs",
+     "views": 830139
+    },
+    {
+     "videoId": "o6W0vrv8t90",
+     "views": 26369
+    }
+   ],
+   "popularityRank": 39
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 19,
+   "title": "1130 TYBW piano solitude",
+   "videoId": "hcRDixTC-VQ",
+   "duration": "3:38",
+   "views": 238840,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "hcRDixTC-VQ",
+     "views": 230188
+    },
+    {
+     "videoId": "KNyhAn3lGQk",
+     "views": 8652
+    }
+   ],
+   "popularityRank": 95
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 20,
+   "title": "1106 TYBW CH united",
+   "videoId": "zfxa9ahq63g",
+   "duration": "4:20",
+   "views": 1724263,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "zfxa9ahq63g",
+     "views": 1693010
+    },
+    {
+     "videoId": "JRf1CGH5aU4",
+     "views": 31253
+    }
+   ],
+   "popularityRank": 20
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 21,
+   "title": "2211 TYBW racy orchestra",
+   "videoId": "x7Tg7AUt3j4",
+   "duration": "2:32",
+   "views": 890973,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "x7Tg7AUt3j4",
+     "views": 854172
+    },
+    {
+     "videoId": "2Mx_tXEJR1g",
+     "views": 36801
+    }
+   ],
+   "popularityRank": 38
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 22,
+   "title": "Raw breath - orchestra 2022",
+   "videoId": "cKQL-QfYE9I",
+   "duration": "1:40",
+   "views": 230766,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "cKQL-QfYE9I",
+     "views": 222466
+    },
+    {
+     "videoId": "ZYTkAVOa-Ww",
+     "views": 8300
+    }
+   ],
+   "popularityRank": 98
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 23,
+   "title": "BLEACH TYBW theme",
+   "videoId": "gklZUy5mzfY",
+   "duration": "4:39",
+   "views": 714149,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "gklZUy5mzfY",
+     "views": 699538
+    },
+    {
+     "videoId": "2elt8edMyMk",
+     "views": 14611
+    }
+   ],
+   "popularityRank": 48
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 24,
+   "title": "2215 TYBW strings",
+   "videoId": "-SYmx2dAY9Q",
+   "duration": "2:49",
+   "views": 208193,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "-SYmx2dAY9Q",
+     "views": 200129
+    },
+    {
+     "videoId": "HCkiAoLjrwM",
+     "views": 8064
+    }
+   ],
+   "popularityRank": 103
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 25,
+   "title": "Number One - Bankai",
+   "videoId": "gdEmyPZts1M",
+   "duration": "4:47",
+   "views": 965709,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "gdEmyPZts1M",
+     "views": 943255
+    },
+    {
+     "videoId": "ydWexVUWItc",
+     "views": 22454
+    }
+   ],
+   "popularityRank": 36
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 26,
+   "title": "Nothing can be explained - bis 2022",
+   "videoId": "9QNqJp8XfEM",
+   "duration": "3:59",
+   "views": 610438,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "9QNqJp8XfEM",
+     "views": 599733
+    },
+    {
+     "videoId": "H2toNmanvlc",
+     "views": 10705
+    }
+   ],
+   "popularityRank": 52
+  },
+  {
+   "album": "TYBW OST 1 (2023)",
+   "track": 27,
+   "title": "Cometh the hour - avant garde 2023",
+   "videoId": "FoTB-pAFKiM",
+   "duration": "4:06",
+   "views": 1089908,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "FoTB-pAFKiM",
+     "views": 1070647
+    },
+    {
+     "videoId": "abIcdVrFqY8",
+     "views": 19261
+    }
+   ],
+   "popularityRank": 29
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 1,
+   "title": "One True Messiah",
+   "videoId": "d7cm_Z3UY_Q",
+   "duration": "4:02",
+   "views": 231718,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "d7cm_Z3UY_Q",
+     "views": 231718
+    }
+   ],
+   "popularityRank": 97
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 2,
+   "title": "Last Judgement - strings version",
+   "videoId": "t2VeNNZpQLE",
+   "duration": "4:23",
+   "views": 153653,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "t2VeNNZpQLE",
+     "views": 153653
+    }
+   ],
+   "popularityRank": 113
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 3,
+   "title": "What can you see In their eyes - version 2nd",
+   "videoId": "mx9JaW88Dfo",
+   "duration": "4:03",
+   "views": 539048,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "mx9JaW88Dfo",
+     "views": 539048
+    }
+   ],
+   "popularityRank": 54
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 4,
+   "title": "The Rest of Your Life",
+   "videoId": "CzdmqsewU4M",
+   "duration": "3:41",
+   "views": 131200,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "CzdmqsewU4M",
+     "views": 131200
+    }
+   ],
+   "popularityRank": 115
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 5,
+   "title": "Nothing can be explained - deliverable",
+   "videoId": "lExozu9ZGtI",
+   "duration": "4:39",
+   "views": 148652,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "lExozu9ZGtI",
+     "views": 148652
+    }
+   ],
+   "popularityRank": 114
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 6,
+   "title": "He will die for our sins",
+   "videoId": "AdDShPKEw78",
+   "duration": "4:05",
+   "views": 450603,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "AdDShPKEw78",
+     "views": 450603
+    }
+   ],
+   "popularityRank": 61
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 7,
+   "title": "Their Gaps",
+   "videoId": "QgJvyMr3q9w",
+   "duration": "2:15",
+   "views": 74752,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "QgJvyMr3q9w",
+     "views": 74752
+    }
+   ],
+   "popularityRank": 140
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 8,
+   "title": "GINORMOUS",
+   "videoId": "T7z8SW_Kimg",
+   "duration": "1:57",
+   "views": 70936,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "T7z8SW_Kimg",
+     "views": 70936
+    }
+   ],
+   "popularityRank": 141
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 9,
+   "title": "The Precipice of Defeat - choir overture",
+   "videoId": "ki-6dxHcuzQ",
+   "duration": "1:39",
+   "views": 266977,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "ki-6dxHcuzQ",
+     "views": 266977
+    }
+   ],
+   "popularityRank": 88
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 10,
+   "title": "Everything I Lost - 2024 mix",
+   "videoId": "Q7hhx-1g99U",
+   "duration": "4:49",
+   "views": 982562,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "Q7hhx-1g99U",
+     "views": 982562
+    }
+   ],
+   "popularityRank": 33
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 11,
+   "title": "Nothing is Won, Nothing is Lost",
+   "videoId": "VzS_fgQ6_gY",
+   "duration": "5:47",
+   "views": 836881,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "VzS_fgQ6_gY",
+     "views": 836881
+    }
+   ],
+   "popularityRank": 40
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 12,
+   "title": "Fiddles and Pipes",
+   "videoId": "zTPLX3VDVn8",
+   "duration": "2:11",
+   "views": 88930,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "zTPLX3VDVn8",
+     "views": 88930
+    }
+   ],
+   "popularityRank": 135
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 13,
+   "title": "Bloody Rhapsody",
+   "videoId": "d0yDXJMessI",
+   "duration": "4:19",
+   "views": 98048,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "d0yDXJMessI",
+     "views": 98048
+    }
+   ],
+   "popularityRank": 130
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 14,
+   "title": "STICKY SITUATIONS",
+   "videoId": "IYWVTGtiu6w",
+   "duration": "3:36",
+   "views": 80256,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "IYWVTGtiu6w",
+     "views": 80256
+    }
+   ],
+   "popularityRank": 138
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 15,
+   "title": "Torn Apart - heavy metal",
+   "videoId": "84MOZlcSln4",
+   "duration": "4:28",
+   "views": 540466,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "84MOZlcSln4",
+     "views": 540466
+    }
+   ],
+   "popularityRank": 53
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 16,
+   "title": "FIGHT THE FIGHT - version 3rd",
+   "videoId": "hUnkJIhp7jA",
+   "duration": "5:04",
+   "views": 114144,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "hUnkJIhp7jA",
+     "views": 114144
+    }
+   ],
+   "popularityRank": 122
+  },
+  {
+   "album": "TYBW OST 2",
+   "track": 17,
+   "title": "The song of Magnificent Death Mausoleum by Ichibei Hyosube",
+   "videoId": "2OvNydU3fPQ",
+   "duration": "1:38",
+   "views": 128342,
+   "playable": true,
+   "uploads": [
+    {
+     "videoId": "2OvNydU3fPQ",
+     "views": 128342
+    }
+   ],
+   "popularityRank": 116
+  }
+ ]
+}

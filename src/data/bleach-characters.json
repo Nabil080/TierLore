@@ -1,0 +1,1538 @@
+{
+ "title": "Bleach Characters",
+ "categories": [
+  {
+   "id": "facts",
+   "label": "Fun facts"
+  },
+  {
+   "id": "credits",
+   "label": "Credits"
+  }
+ ],
+ "tiers": [
+  {
+   "id": "S",
+   "label": "S",
+   "color": "#FF5C77"
+  },
+  {
+   "id": "A",
+   "label": "A",
+   "color": "#FF9B54"
+  },
+  {
+   "id": "B",
+   "label": "B",
+   "color": "#FFD35C"
+  },
+  {
+   "id": "C",
+   "label": "C",
+   "color": "#8FDB6E"
+  },
+  {
+   "id": "D",
+   "label": "D",
+   "color": "#5EC4F0"
+  }
+ ],
+ "items": [
+  {
+   "id": "ichigo",
+   "name": "Ichigo Kurosaki",
+   "shortName": "Ichigo",
+   "cover": "/images/bleach-characters/ichigo-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-1.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-2.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-3.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-3-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-4.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-4-thumb.webp",
+     "caption": "Couverture ch. 378"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-5.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-5-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-6.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-6-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-7.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-7-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-8.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-8-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-9.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-9-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-10.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-10-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-11.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-11-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-12.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-12-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-13.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-13-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ichigo-outfit-14.webp",
+     "thumb": "/images/bleach-characters/ichigo-outfit-14-thumb.webp",
+     "caption": "Scan sans source"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "His name is written \"one\" + \"protect\", but everyone teases him because it also sounds like \"strawberry\". His birthday is July 15th (1-5, \"ichi-go\")."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Masakazu Morita",
+       "person": "anilist-staff-95205"
+      },
+      {
+       "label": "English voice",
+       "text": "Johnny Yong Bosch",
+       "person": "anilist-staff-95010"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rukia",
+   "name": "Rukia Kuchiki",
+   "shortName": "Rukia",
+   "cover": "/images/bleach-characters/rukia-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-1.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-2.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-3.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-3-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-4.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-4-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-5.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-5-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-6.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-6-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-7.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-7-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/rukia-outfit-8.webp",
+     "thumb": "/images/bleach-characters/rukia-outfit-8-thumb.webp",
+     "caption": null
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Bleach started with her. Kubo just wanted to draw a shinigami in a kimono, and Rukia was the very first character he created."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Fumiko Orikasa",
+       "person": "anilist-staff-95152"
+      },
+      {
+       "label": "English voice",
+       "text": "Michelle Ruff",
+       "person": "anilist-staff-95085"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "renji",
+   "name": "Renji Abarai",
+   "shortName": "Renji",
+   "cover": "/images/bleach-characters/renji-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-1.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-2.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-3.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-3-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-4.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-4-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-5.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-5-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-6.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-6-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-7.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-7-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-8.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-8-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-9.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-9-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-10.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-10-thumb.webp",
+     "caption": "Couverture tome 73"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-11.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-11-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/renji-outfit-12.webp",
+     "thumb": "/images/bleach-characters/renji-outfit-12-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He keeps breaking his expensive sunglasses, so he wears a headband while he saves up for a new pair. His dream: wearing goggles he designed himself."
+      },
+      {
+       "text": "His \"eyebrows\" are tattoos."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Kentarou Itou",
+       "person": "anilist-staff-95221"
+      },
+      {
+       "label": "English voice",
+       "text": "Wally Wingert",
+       "person": "anilist-staff-95355"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "byakuya",
+   "name": "Byakuya Kuchiki",
+   "shortName": "Byakuya",
+   "cover": "/images/bleach-characters/byakuya-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-1.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-2.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-2-thumb.webp",
+     "caption": "Couverture tome 57"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-3.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-3-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-4.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-4-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-5.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-5-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-6.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-6-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/byakuya-outfit-7.webp",
+     "thumb": "/images/bleach-characters/byakuya-outfit-7-thumb.webp",
+     "caption": "Couverture Resurrected Souls (rééd.)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "His scarf is a family heirloom said to be worth ten mansions."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Ryoutarou Okiayu",
+       "person": "anilist-staff-95177"
+      },
+      {
+       "label": "English voice",
+       "text": "Dan Woren",
+       "person": "anilist-staff-96046"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uryu",
+   "name": "Uryū Ishida",
+   "shortName": "Uryū",
+   "cover": "/images/bleach-characters/uryu-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-1.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-2.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-3.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-3-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-4.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-4-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-5.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-5-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-6.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-6-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-7.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-7-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-8.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-8-thumb.webp",
+     "caption": "Couverture tome 72"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/uryu-outfit-9.webp",
+     "thumb": "/images/bleach-characters/uryu-outfit-9-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He's in the handicrafts club and sews his own outfits. He also \"improves\" his friends' clothes without asking."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Noriaki Sugiyama",
+       "person": "anilist-staff-95016"
+      },
+      {
+       "label": "English voice",
+       "text": "Derek Prince",
+       "person": "anilist-staff-95390"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "orihime",
+   "name": "Orihime Inoue",
+   "shortName": "Orihime",
+   "cover": "/images/bleach-characters/orihime-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-1.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-2.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-3.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-3-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-4.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-4-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-5.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-5-thumb.webp",
+     "caption": "Poster 20 ans n°2"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-6.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-6-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-7.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-7-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-8.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-8-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-9.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-9-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-10.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-10-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/orihime-outfit-11.webp",
+     "thumb": "/images/bleach-characters/orihime-outfit-11-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "She loves strange food combinations: her favorite food is red bean paste, and she puts butter on her sweet potatoes."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Yuki Matsuoka",
+       "person": "anilist-staff-95073"
+      },
+      {
+       "label": "English voice",
+       "text": "Stephanie Sheh",
+       "person": "anilist-staff-95396"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chad",
+   "name": "Yasutora \"Chad\" Sado",
+   "shortName": "Chad",
+   "cover": "/images/bleach-characters/chad-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/chad-outfit-1.webp",
+     "thumb": "/images/bleach-characters/chad-outfit-1-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/chad-outfit-2.webp",
+     "thumb": "/images/bleach-characters/chad-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/chad-outfit-3.webp",
+     "thumb": "/images/bleach-characters/chad-outfit-3-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/chad-outfit-4.webp",
+     "thumb": "/images/bleach-characters/chad-outfit-4-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/chad-outfit-5.webp",
+     "thumb": "/images/bleach-characters/chad-outfit-5-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "\"Chad\" isn't his real name: he's Yasutora Sado, and Ichigo misread the kanji of his family name."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Hiroki Yasumoto",
+       "person": "anilist-staff-95025"
+      },
+      {
+       "label": "English voice",
+       "text": "Jamieson Price",
+       "person": "anilist-staff-95353"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kenpachi",
+   "name": "Kenpachi Zaraki",
+   "shortName": "Kenpachi",
+   "cover": "/images/bleach-characters/kenpachi-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/kenpachi-outfit-1.webp",
+     "thumb": "/images/bleach-characters/kenpachi-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/kenpachi-outfit-2.webp",
+     "thumb": "/images/bleach-characters/kenpachi-outfit-2-thumb.webp",
+     "caption": "Poster 20 ans n°23"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/kenpachi-outfit-3.webp",
+     "thumb": "/images/bleach-characters/kenpachi-outfit-3-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/kenpachi-outfit-4.webp",
+     "thumb": "/images/bleach-characters/kenpachi-outfit-4-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/kenpachi-outfit-5.webp",
+     "thumb": "/images/bleach-characters/kenpachi-outfit-5-thumb.webp",
+     "caption": "Reupload"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He ties bells to the spikes of his hair so enemies hear him coming. Setting them takes hours every day, and he refuses any help."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Fumihiko Tachiki",
+       "person": "anilist-staff-95284"
+      },
+      {
+       "label": "English voice",
+       "text": "Patrick Seitz",
+       "person": "anilist-staff-95340"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toshiro",
+   "name": "Tōshirō Hitsugaya",
+   "shortName": "Tōshirō",
+   "cover": "/images/bleach-characters/toshiro-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-1.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-2.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-2-thumb.webp",
+     "caption": "Poster 20 ans n°24"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-3.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-3-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-4.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-4-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-5.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-5-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-6.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-6-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/toshiro-outfit-7.webp",
+     "thumb": "/images/bleach-characters/toshiro-outfit-7-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "In 2008 he overtook Ichigo as the most popular character in the official Shōnen Jump polls."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Romi Park",
+       "person": "anilist-staff-95082"
+      },
+      {
+       "label": "English voice",
+       "text": "Steve Staley",
+       "person": "anilist-staff-95281"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shunsui",
+   "name": "Shunsui Kyōraku",
+   "shortName": "Shunsui",
+   "cover": "/images/bleach-characters/shunsui-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shunsui-outfit-1.webp",
+     "thumb": "/images/bleach-characters/shunsui-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shunsui-outfit-2.webp",
+     "thumb": "/images/bleach-characters/shunsui-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He wears a pink, flowered women's kimono over his uniform. The kimono is cheap, but his pinwheel hairpins are very expensive."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Akio Ootsuka",
+       "person": "anilist-staff-95146"
+      },
+      {
+       "label": "English voice",
+       "text": "Steve Kramer",
+       "person": "anilist-staff-95990"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mayuri",
+   "name": "Mayuri Kurotsuchi",
+   "shortName": "Mayuri",
+   "cover": "/images/bleach-characters/mayuri-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/mayuri-outfit-1.webp",
+     "thumb": "/images/bleach-characters/mayuri-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/mayuri-outfit-2.webp",
+     "thumb": "/images/bleach-characters/mayuri-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/mayuri-outfit-3.webp",
+     "thumb": "/images/bleach-characters/mayuri-outfit-3-thumb.webp",
+     "caption": "Poster 20 ans n°22"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/mayuri-outfit-4.webp",
+     "thumb": "/images/bleach-characters/mayuri-outfit-4-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/mayuri-outfit-5.webp",
+     "thumb": "/images/bleach-characters/mayuri-outfit-5-thumb.webp",
+     "caption": null
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Kubo has said Mayuri is his favorite character to draw. That's why his look changes almost every time we see him."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Ryuusei Nakao",
+       "person": "anilist-staff-95259"
+      },
+      {
+       "label": "English voice",
+       "text": "Terrence Stone",
+       "person": "anilist-staff-95321"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soifon",
+   "name": "Soi Fon",
+   "shortName": "Soi Fon",
+   "cover": "/images/bleach-characters/soifon-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/soifon-outfit-1.webp",
+     "thumb": "/images/bleach-characters/soifon-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/soifon-outfit-2.webp",
+     "thumb": "/images/bleach-characters/soifon-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/soifon-outfit-3.webp",
+     "thumb": "/images/bleach-characters/soifon-outfit-3-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Her name uses a Chinese-style reading (Suì-Fēng), a rarity in a mostly Japanese cast."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Houko Kuwashima",
+       "person": "anilist-staff-95057"
+      },
+      {
+       "label": "English voice",
+       "text": "Karen Strassman",
+       "person": "anilist-staff-96054"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "yoruichi",
+   "name": "Yoruichi Shihōin",
+   "shortName": "Yoruichi",
+   "cover": "/images/bleach-characters/yoruichi-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-1.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-2.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-3.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-3-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-4.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-4-thumb.webp",
+     "caption": "Poster 20 ans n°26"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-5.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-5-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-6.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-6-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yoruichi-outfit-7.webp",
+     "thumb": "/images/bleach-characters/yoruichi-outfit-7-thumb.webp",
+     "caption": null
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "In her black cat form she speaks with a man's voice, so Ichigo first takes her for a man."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Satsuki Yukino",
+       "person": "anilist-staff-95003"
+      },
+      {
+       "label": "English voice",
+       "text": "Wendee Lee",
+       "person": "anilist-staff-95036"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "urahara",
+   "name": "Kisuke Urahara",
+   "shortName": "Urahara",
+   "cover": "/images/bleach-characters/urahara-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-1.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-2.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-3.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-3-thumb.webp",
+     "caption": "Poster 20 ans n°27"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-4.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-4-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-5.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-5-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/urahara-outfit-6.webp",
+     "thumb": "/images/bleach-characters/urahara-outfit-6-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He runs a little candy shop"
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Shinichirou Miki",
+       "person": "anilist-staff-95022"
+      },
+      {
+       "label": "English voice",
+       "text": "Michael Lindsay",
+       "person": "anilist-staff-95613"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shinji",
+   "name": "Shinji Hirako",
+   "shortName": "Shinji",
+   "cover": "/images/bleach-characters/shinji-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-1.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-2.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-3.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-3-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-4.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-4-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-5.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-5-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/shinji-outfit-6.webp",
+     "thumb": "/images/bleach-characters/shinji-outfit-6-thumb.webp",
+     "caption": "Reupload"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He's a huge jazz fan who used to play his vinyl records on a phonograph. Also he's my favorite."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Masaya Onosaka",
+       "person": "anilist-staff-95173"
+      },
+      {
+       "label": "English voice",
+       "text": "Roger Craig Smith",
+       "person": "anilist-staff-100429"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aizen",
+   "name": "Sōsuke Aizen",
+   "shortName": "Aizen",
+   "cover": "/images/bleach-characters/aizen-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/aizen-outfit-1.webp",
+     "thumb": "/images/bleach-characters/aizen-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/aizen-outfit-2.webp",
+     "thumb": "/images/bleach-characters/aizen-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/aizen-outfit-3.webp",
+     "thumb": "/images/bleach-characters/aizen-outfit-3-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/aizen-outfit-4.webp",
+     "thumb": "/images/bleach-characters/aizen-outfit-4-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/aizen-outfit-5.webp",
+     "thumb": "/images/bleach-characters/aizen-outfit-5-thumb.webp",
+     "caption": "Couverture tome 12"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "He doesn't need glasses"
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Shou Hayami",
+       "person": "anilist-staff-95137"
+      },
+      {
+       "label": "English voice",
+       "text": "Kyle Hebert",
+       "person": "anilist-staff-95336"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gin",
+   "name": "Gin Ichimaru",
+   "shortName": "Gin",
+   "cover": "/images/bleach-characters/gin-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/gin-outfit-1.webp",
+     "thumb": "/images/bleach-characters/gin-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/gin-outfit-2.webp",
+     "thumb": "/images/bleach-characters/gin-outfit-2-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/gin-outfit-3.webp",
+     "thumb": "/images/bleach-characters/gin-outfit-3-thumb.webp",
+     "caption": "Page couleur (chapitre non identifié)"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/gin-outfit-4.webp",
+     "thumb": "/images/bleach-characters/gin-outfit-4-thumb.webp",
+     "caption": "Croquis (source non tracée)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Kubo tried to make him creepy and off-putting, and was surprised when he became hugely popular, especially with female fans."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Kouji Yusa",
+       "person": "anilist-staff-95068"
+      },
+      {
+       "label": "English voice",
+       "text": "Doug Erholtz",
+       "person": "anilist-staff-96547"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ulquiorra",
+   "name": "Ulquiorra Cifer",
+   "shortName": "Ulquiorra",
+   "cover": "/images/bleach-characters/ulquiorra-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ulquiorra-outfit-1.webp",
+     "thumb": "/images/bleach-characters/ulquiorra-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ulquiorra-outfit-2.webp",
+     "thumb": "/images/bleach-characters/ulquiorra-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ulquiorra-outfit-3.webp",
+     "thumb": "/images/bleach-characters/ulquiorra-outfit-3-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/ulquiorra-outfit-4.webp",
+     "thumb": "/images/bleach-characters/ulquiorra-outfit-4-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Kubo named him after Patricia Urquiola, a Spanish designer and architect."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Daisuke Namikawa",
+       "person": "anilist-staff-95087"
+      },
+      {
+       "label": "English voice",
+       "text": "Tony Oliver",
+       "person": "anilist-staff-95654"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "grimmjow",
+   "name": "Grimmjow Jaegerjaquez",
+   "shortName": "Grimmjow",
+   "cover": "/images/bleach-characters/grimmjow-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/grimmjow-outfit-1.webp",
+     "thumb": "/images/bleach-characters/grimmjow-outfit-1-thumb.webp",
+     "caption": "Poster 20 ans n°30"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/grimmjow-outfit-2.webp",
+     "thumb": "/images/bleach-characters/grimmjow-outfit-2-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/grimmjow-outfit-3.webp",
+     "thumb": "/images/bleach-characters/grimmjow-outfit-3-thumb.webp",
+     "caption": "Scan sans source"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/grimmjow-outfit-4.webp",
+     "thumb": "/images/bleach-characters/grimmjow-outfit-4-thumb.webp",
+     "caption": "Calendrier officiel"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/grimmjow-outfit-5.webp",
+     "thumb": "/images/bleach-characters/grimmjow-outfit-5-thumb.webp",
+     "caption": "Couverture tome 24 (Glénat)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "His name mixes an architect (Nicholas Grimshaw) and a luxury Swiss watch brand (Jaeger-LeCoultre). Kubo names this faction after design and architecture icons."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Junichi Suwabe",
+       "person": "anilist-staff-95095"
+      },
+      {
+       "label": "English voice",
+       "text": "David Vincent",
+       "person": "anilist-staff-101457"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nelliel",
+   "name": "Nelliel Tu Odelschwanck",
+   "shortName": "Nelliel",
+   "cover": "/images/bleach-characters/nelliel-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/nelliel-outfit-1.webp",
+     "thumb": "/images/bleach-characters/nelliel-outfit-1-thumb.webp",
+     "caption": "Reupload"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/nelliel-outfit-2.webp",
+     "thumb": "/images/bleach-characters/nelliel-outfit-2-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/nelliel-outfit-3.webp",
+     "thumb": "/images/bleach-characters/nelliel-outfit-3-thumb.webp",
+     "caption": "Poster 20 ans n°29"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/nelliel-outfit-4.webp",
+     "thumb": "/images/bleach-characters/nelliel-outfit-4-thumb.webp",
+     "caption": "Page couleur ch. 293"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/nelliel-outfit-5.webp",
+     "thumb": "/images/bleach-characters/nelliel-outfit-5-thumb.webp",
+     "caption": "X de Kubo (@tite_official)"
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "Kubo picked her theme song: \"Wrapped\" by Gloria Estefan."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Tomoko Kaneda",
+       "person": "anilist-staff-95272"
+      },
+      {
+       "label": "English voice",
+       "text": "Colleen O'Shaughnessey",
+       "person": "anilist-staff-95264"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "yhwach",
+   "name": "Yhwach",
+   "shortName": "Yhwach",
+   "cover": "/images/bleach-characters/yhwach-thumb.webp",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yhwach-outfit-1.webp",
+     "thumb": "/images/bleach-characters/yhwach-outfit-1-thumb.webp",
+     "caption": null
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yhwach-outfit-2.webp",
+     "thumb": "/images/bleach-characters/yhwach-outfit-2-thumb.webp",
+     "caption": "Couverture tome 55"
+    },
+    {
+     "kind": "image",
+     "src": "/images/bleach-characters/yhwach-outfit-3.webp",
+     "thumb": "/images/bleach-characters/yhwach-outfit-3-thumb.webp",
+     "caption": null
+    }
+   ],
+   "sections": [
+    {
+     "category": "facts",
+     "entries": [
+      {
+       "text": "His name comes from YHWH, one of the Hebrew names of God, and is pronounced \"Yuhabahha\" in Japanese."
+      }
+     ]
+    },
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Japanese voice",
+       "text": "Takayuki Sugou",
+       "person": "anilist-staff-95037"
+      },
+      {
+       "label": "English voice",
+       "text": "Richard Epcar",
+       "person": "anilist-staff-95352"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "universe": "Bleach",
+ "subtitle": "Official arts only"
+}

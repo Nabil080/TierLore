@@ -1,0 +1,455 @@
+{
+ "universe": "Demon Slayer",
+ "title": "Demon Slayer Characters",
+ "subtitle": "Official art only",
+ "tiers": [
+  {
+   "id": "S",
+   "label": "S",
+   "color": "#FF5C77"
+  },
+  {
+   "id": "A",
+   "label": "A",
+   "color": "#FF9B54"
+  },
+  {
+   "id": "B",
+   "label": "B",
+   "color": "#FFD35C"
+  },
+  {
+   "id": "C",
+   "label": "C",
+   "color": "#8FDB6E"
+  },
+  {
+   "id": "D",
+   "label": "D",
+   "color": "#5EC4F0"
+  }
+ ],
+ "items": [
+  {
+   "id": "tanjiro",
+   "name": "Tanjiro Kamado",
+   "shortName": "Tanjiro",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tanjiro/54dc020d-Kamado.Tanjirou.full.3563247-web.webp",
+     "thumb": "/images/demon-slayer/tanjiro/630f32bc-3563247-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tanjiro/b0e90920-Kamado.Tanjirou.full.4663816-web.webp",
+     "thumb": "/images/demon-slayer/tanjiro/926fc0c2-4663816-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tanjiro/5cbad67b-Kamado.Tanjirou.full.4535880-web.webp",
+     "thumb": "/images/demon-slayer/tanjiro/24171464-4535880-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "His checkered haori turned the ichimatsu pattern into a fashion trend in Japan. Shueisha even tried to trademark it, but the patent office refused: the pattern is centuries old."
+   ]
+  },
+  {
+   "id": "nezuko",
+   "name": "Nezuko Kamado",
+   "shortName": "Nezuko",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/nezuko/868f7297-Kamado.Nezuko.full.3754871-web.webp",
+     "thumb": "/images/demon-slayer/nezuko/a1229942-3754871-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/nezuko/2f18ff2e-Kamado.Nezuko.full.3563277-web.webp",
+     "thumb": "/images/demon-slayer/nezuko/d2cbd562-3563277-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/nezuko/1cffde58-Kamado.Nezuko.full.4663810-web.webp",
+     "thumb": "/images/demon-slayer/nezuko/2bb8126f-4663810-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "Her kimono uses the asa-no-ha (hemp leaf) pattern, traditionally sewn on children's clothes as a wish for them to grow fast and strong, like hemp."
+   ]
+  },
+  {
+   "id": "zenitsu",
+   "name": "Zenitsu Agatsuma",
+   "shortName": "Zenitsu",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/zenitsu/ad99d53f-Agatsuma.Zenitsu.full.2833888-web.webp",
+     "thumb": "/images/demon-slayer/zenitsu/53a2d88e-2833888-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/zenitsu/dd79a76d-Agatsuma.Zenitsu.full.3783547-web.webp",
+     "thumb": "/images/demon-slayer/zenitsu/91ff046b-3783547-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/zenitsu/0c701df5-Agatsuma.Zenitsu.full.3573404-web.webp",
+     "thumb": "/images/demon-slayer/zenitsu/22fdb990-3573404-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "The triangles on his haori are the uroko (scale) pattern, believed in Japan to ward off evil spirits."
+   ]
+  },
+  {
+   "id": "inosuke",
+   "name": "Inosuke Hashibira",
+   "shortName": "Inosuke",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/inosuke/f475e1ca-Hashibira.Inosuke.full.2833889-web.webp",
+     "thumb": "/images/demon-slayer/inosuke/dc69fcfe-2833889-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/inosuke/e8540a49-Hashibira.Inosuke.full.3573405-web.webp",
+     "thumb": "/images/demon-slayer/inosuke/dc848fb0-3573405-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/inosuke/868ebeab-Hashibira.Inosuke.full.2706386-web.webp",
+     "thumb": "/images/demon-slayer/inosuke/2317d8ea-2706386-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "Raised by boars in the mountains, he wears a real boar's head as a mask and refuses to wear the uniform jacket."
+   ]
+  },
+  {
+   "id": "kanao",
+   "name": "Kanao Tsuyuri",
+   "shortName": "Kanao",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/kanao/b42e463d-Tsuyuri.Kanao.full.2884890-web.webp",
+     "thumb": "/images/demon-slayer/kanao/fec0a6e0-2884890-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/kanao/b13f1bec-Tsuyuri.Kanao.full.3921508-web.webp",
+     "thumb": "/images/demon-slayer/kanao/a2848cce-3921508-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/kanao/53197a0e-Tsuyuri.Kanao.full.4317491-web.webp",
+     "thumb": "/images/demon-slayer/kanao/687a9166-4317491-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "She couldn't make decisions on her own, so she let a coin toss decide everything. Tanjiro flipping that coin is what makes her start following her heart."
+   ]
+  },
+  {
+   "id": "giyu",
+   "name": "Giyu Tomioka",
+   "shortName": "Giyu",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/giyu/b2e83f05-Tomioka.Giyuu.full.4067584-web.webp",
+     "thumb": "/images/demon-slayer/giyu/0814aa1d-4067584-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/giyu/c8b51b53-Tomioka.Giyuu.full.2833890-web.webp",
+     "thumb": "/images/demon-slayer/giyu/d76940de-2833890-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/giyu/00efb8d9-Tomioka.Giyuu.full.2648312-web.webp",
+     "thumb": "/images/demon-slayer/giyu/7b0a1c72-2648312-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "His haori is two fabrics sewn together: one half comes from his late sister Tsutako, the other from his late friend Sabito."
+   ]
+  },
+  {
+   "id": "shinobu",
+   "name": "Shinobu Kocho",
+   "shortName": "Shinobu",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/shinobu/f2104729-Kochou.Shinobu.full.2702897-web.webp",
+     "thumb": "/images/demon-slayer/shinobu/a571ec22-2702897-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/shinobu/90355fc1-Kochou.Shinobu.full.2893918-web.webp",
+     "thumb": "/images/demon-slayer/shinobu/4bc712ae-2893918-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/shinobu/f90ce990-Kochou.Shinobu.full.4317502-web.webp",
+     "thumb": "/images/demon-slayer/shinobu/41ff06f3-4317502-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "She's the only Hashira who can't behead demons: too small to cut their necks, she kills them with wisteria poison instead."
+   ]
+  },
+  {
+   "id": "rengoku",
+   "name": "Kyojuro Rengoku",
+   "shortName": "Rengoku",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/rengoku/b504182c-Rengoku.Kyoujurou.full.2884892-web.webp",
+     "thumb": "/images/demon-slayer/rengoku/5627ca27-2884892-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/rengoku/f576a790-Kimetsu.no.Yaiba.full.3179660-web.webp",
+     "thumb": "/images/demon-slayer/rengoku/32612ff0-3179660-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/rengoku/62aafc78-Rengoku.Kyoujurou.full.3563273-web.webp",
+     "thumb": "/images/demon-slayer/rengoku/92d5399a-3563273-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "The Mugen Train movie built around him became the highest-grossing film ever in Japan, beating Spirited Away."
+   ]
+  },
+  {
+   "id": "tengen",
+   "name": "Tengen Uzui",
+   "shortName": "Tengen",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tengen/33f248de-Uzui.Tengen.full.4362955-web.webp",
+     "thumb": "/images/demon-slayer/tengen/9008c422-4362955-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tengen/964e649d-Uzui.Tengen.full.3612518-web.webp",
+     "thumb": "/images/demon-slayer/tengen/6ea0ac43-3612518-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/tengen/635735b6-Uzui.Tengen.full.3642085-web.webp",
+     "thumb": "/images/demon-slayer/tengen/9fadc50e-3642085-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "A former shinobi with three wives, his catchphrase is \"flamboyant\", and he wears a jewelled headband and eye makeup to live up to it."
+   ]
+  },
+  {
+   "id": "mitsuri",
+   "name": "Mitsuri Kanroji",
+   "shortName": "Mitsuri",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/mitsuri/aa3aea6d-Kanroji.Mitsuri.full.4044040-web.webp",
+     "thumb": "/images/demon-slayer/mitsuri/528b51f7-4044040-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/mitsuri/02173ceb-Kanroji.Mitsuri.full.4136230-web.webp",
+     "thumb": "/images/demon-slayer/mitsuri/6b0737d7-4136230-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/mitsuri/6ac51930-Kanroji.Mitsuri.full.4663782-web.webp",
+     "thumb": "/images/demon-slayer/mitsuri/0c2142ae-4663782-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    }
+   ],
+   "facts": [
+    "Her revealing uniform was a trick by the Corps' tailor, who told her all female slayers wear it that way."
+   ]
+  },
+  {
+   "id": "muichiro",
+   "name": "Muichiro Tokito",
+   "shortName": "Muichiro",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muichiro/d0a10347-Tokitou.Muichirou.full.4152804-web.webp",
+     "thumb": "/images/demon-slayer/muichiro/6aa2238a-4152804-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muichiro/9ff8e48f-Tokitou.Muichirou.full.4008519-web.webp",
+     "thumb": "/images/demon-slayer/muichiro/4cbdc443-4008519-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muichiro/f8ed651d-Tokitou.Muichirou.full.4067581-web.webp",
+     "thumb": "/images/demon-slayer/muichiro/6856474e-4067581-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "He became a Hashira only two months after picking up a sword, at 14: the youngest of them all."
+   ]
+  },
+  {
+   "id": "sanemi",
+   "name": "Sanemi Shinazugawa",
+   "shortName": "Sanemi",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/sanemi/6af9d3da-Shinazugawa.Sanemi.full.2884902-web.webp",
+     "thumb": "/images/demon-slayer/sanemi/4f9e5b00-2884902-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/sanemi/a3d131ea-Shinazugawa.Sanemi.full.4067582-web.webp",
+     "thumb": "/images/demon-slayer/sanemi/47570d1a-4067582-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/sanemi/414e8ca4-Shinazugawa.Sanemi.full.4362946-web.webp",
+     "thumb": "/images/demon-slayer/sanemi/3d6da72c-4362946-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "He wears his uniform wide open, showing the scars all over his body. His rare \"marechi\" blood makes demons drunk."
+   ]
+  },
+  {
+   "id": "obanai",
+   "name": "Obanai Iguro",
+   "shortName": "Obanai",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/obanai/61c4be74-Iguro.Obanai.full.4216223-web.webp",
+     "thumb": "/images/demon-slayer/obanai/2ed75f67-4216223-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/obanai/45df9863-Iguro.Obanai.full.4068810-web.webp",
+     "thumb": "/images/demon-slayer/obanai/61466200-4068810-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/obanai/f3637a9f-Iguro.Obanai.full.4067580-web.webp",
+     "thumb": "/images/demon-slayer/obanai/38e89cac-4067580-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "The white snake around his neck, Kaburamaru, is his partner. He also has heterochromia: one eye yellow, the other turquoise."
+   ]
+  },
+  {
+   "id": "muzan",
+   "name": "Muzan Kibutsuji",
+   "shortName": "Muzan",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muzan/a2d695c2-Kibutsuji.Muzan.full.4663773-web.webp",
+     "thumb": "/images/demon-slayer/muzan/a711c4db-4663773-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muzan/56fda0c4-Kibutsuji.Muzan.full.2833892-web.webp",
+     "thumb": "/images/demon-slayer/muzan/9c9cd81f-2833892-thumb.webp",
+     "caption": "Art by Koyoharu Gotouge"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/muzan/c3314e2a-Kibutsuji.Muzan.full.3166619-web.webp",
+     "thumb": "/images/demon-slayer/muzan/faafb7da-3166619-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "The first time we see him, the demon king strolls through 1912 Tokyo in a Western suit and fedora, the height of fashion at the time.",
+    "Fans compared that look to Michael Jackson."
+   ]
+  },
+  {
+   "id": "akaza",
+   "name": "Akaza",
+   "shortName": "Akaza",
+   "media": [
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/akaza/48cb40bc-Akaza._Kimetsu.no.Yaiba_.full.4169003-web.webp",
+     "thumb": "/images/demon-slayer/akaza/a9913b32-4169003-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/akaza/3074b4f9-Akaza._Kimetsu.no.Yaiba_.full.4169002-web.webp",
+     "thumb": "/images/demon-slayer/akaza/374a3d5c-4169002-thumb.webp",
+     "caption": "Official art"
+    },
+    {
+     "kind": "image",
+     "src": "/images/demon-slayer/akaza/501764ab-Akaza._Kimetsu.no.Yaiba_.full.4168999-web.webp",
+     "thumb": "/images/demon-slayer/akaza/0b2404f2-4168999-thumb.webp",
+     "caption": "Official art"
+    }
+   ],
+   "facts": [
+    "The stripes on his arms come from his human life: in the Edo period, criminals got one tattooed band per offense."
+   ]
+  }
+ ]
+}

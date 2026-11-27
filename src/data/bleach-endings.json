@@ -1,0 +1,935 @@
+{
+ "universe": "Bleach",
+ "title": "Bleach Endings",
+ "subtitle": "Bleach + Thousand-Year Blood War",
+ "categories": [
+  {
+   "id": "facts",
+   "label": "Fun facts"
+  },
+  {
+   "id": "credits",
+   "label": "Credits"
+  }
+ ],
+ "tiers": [
+  {
+   "id": "S",
+   "label": "S",
+   "color": "#FF5C77"
+  },
+  {
+   "id": "A",
+   "label": "A",
+   "color": "#FF9B54"
+  },
+  {
+   "id": "B",
+   "label": "B",
+   "color": "#FFD35C"
+  },
+  {
+   "id": "C",
+   "label": "C",
+   "color": "#8FDB6E"
+  },
+  {
+   "id": "D",
+   "label": "D",
+   "color": "#5EC4F0"
+  }
+ ],
+ "items": [
+  {
+   "id": "ed01",
+   "name": "ED 1 · Life is Like a Boat",
+   "shortName": "Life is Like a Boat",
+   "subtitle": "Rie Fu · episodes 1-13",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/hYD6Ocj8dp8",
+     "thumb": "/images/bleach-endings/ed01-thumb.webp",
+     "caption": "Life is Like a Boat by Rie Fu"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Rie Fu",
+       "person": "artist-rie-fu"
+      }
+     ]
+    }
+   ],
+   "popularity": 952249
+  },
+  {
+   "id": "ed02",
+   "name": "ED 2 · Thank You!!",
+   "shortName": "Thank You!!",
+   "subtitle": "Home Made Kazoku · episodes 14-26",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/EEh_fsD7-ZM",
+     "thumb": "/images/bleach-endings/ed02-thumb.webp",
+     "caption": "Thank You!! by Home Made Kazoku"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Home Made Kazoku",
+       "person": "artist-home-made-kazoku"
+      }
+     ]
+    }
+   ],
+   "popularity": 1611728
+  },
+  {
+   "id": "ed03",
+   "name": "ED 3 · Hōki Boshi",
+   "shortName": "Hōki Boshi",
+   "subtitle": "Younha · episodes 26-38",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/QJGy2n7ReHk",
+     "thumb": "/images/bleach-endings/ed03-thumb.webp",
+     "caption": "Hōki Boshi by Younha"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Younha",
+       "person": "artist-younha"
+      }
+     ]
+    }
+   ],
+   "popularity": 648534
+  },
+  {
+   "id": "ed04",
+   "name": "ED 4 · Happy People",
+   "shortName": "Happy People",
+   "subtitle": "Skoop On Somebody · episodes 39-51",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/ca11p-P3P-A",
+     "thumb": "/images/bleach-endings/ed04-thumb.webp",
+     "caption": "Happy People by Skoop On Somebody"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Skoop On Somebody",
+       "person": "artist-skoop-on-somebody"
+      }
+     ]
+    }
+   ],
+   "popularity": 614106
+  },
+  {
+   "id": "ed05",
+   "name": "ED 5 · Life",
+   "shortName": "Life",
+   "subtitle": "YUI · episodes 52-63",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/CYbKRePEKOw",
+     "thumb": "/images/bleach-endings/ed05-thumb.webp",
+     "caption": "Life by YUI"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "YUI",
+       "person": "artist-yui"
+      }
+     ]
+    }
+   ],
+   "popularity": 692538
+  },
+  {
+   "id": "ed06",
+   "name": "ED 6 · My Pace",
+   "shortName": "My Pace",
+   "subtitle": "SunSet Swish · episodes 64-74",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/W_M7D_qxOUk",
+     "thumb": "/images/bleach-endings/ed06-thumb.webp",
+     "caption": "My Pace by SunSet Swish"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "SunSet Swish",
+       "person": "artist-sunset-swish"
+      }
+     ]
+    }
+   ],
+   "popularity": 675808
+  },
+  {
+   "id": "ed07",
+   "name": "ED 7 · Hanabi",
+   "shortName": "Hanabi",
+   "subtitle": "Ikimonogakari · episodes 75-86",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/svwlbXKZrn0",
+     "thumb": "/images/bleach-endings/ed07-thumb.webp",
+     "caption": "Hanabi by Ikimonogakari"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Ikimonogakari",
+       "person": "artist-ikimonogakari"
+      }
+     ]
+    }
+   ],
+   "popularity": 847650
+  },
+  {
+   "id": "ed08",
+   "name": "ED 8 · Movin!!",
+   "shortName": "Movin!!",
+   "subtitle": "Takacha · episodes 87-97",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/gxWdDTYKtGA",
+     "thumb": "/images/bleach-endings/ed08-thumb.webp",
+     "caption": "Movin!! by Takacha"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Takacha",
+       "person": "artist-takacha"
+      }
+     ]
+    }
+   ],
+   "popularity": 457827
+  },
+  {
+   "id": "ed09",
+   "name": "ED 9 · Baby It's You",
+   "shortName": "Baby It's You",
+   "subtitle": "June · episodes 98-109",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/ocOJpCwrr24",
+     "thumb": "/images/bleach-endings/ed09-thumb.webp",
+     "caption": "Baby It's You by June"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "June",
+       "person": "artist-june"
+      }
+     ]
+    }
+   ],
+   "popularity": 385688
+  },
+  {
+   "id": "ed10",
+   "name": "ED 10 · Sakura Biyori",
+   "shortName": "Sakura Biyori",
+   "subtitle": "Mai Hoshimura · episodes 110-120",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/fGO-jmLujyg",
+     "thumb": "/images/bleach-endings/ed10-thumb.webp",
+     "caption": "Sakura Biyori by Mai Hoshimura"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Mai Hoshimura",
+       "person": "artist-mai-hoshimura"
+      }
+     ]
+    }
+   ],
+   "popularity": 422069
+  },
+  {
+   "id": "ed11",
+   "name": "ED 11 · Tsumasaki",
+   "shortName": "Tsumasaki",
+   "subtitle": "Ore Ska Band · episodes 121-131",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/B5NO509N_NI",
+     "thumb": "/images/bleach-endings/ed11-thumb.webp",
+     "caption": "Tsumasaki by Ore Ska Band"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Ore Ska Band",
+       "person": "artist-ore-ska-band"
+      }
+     ]
+    }
+   ],
+   "popularity": 398343
+  },
+  {
+   "id": "ed12",
+   "name": "ED 12 · Daidai",
+   "shortName": "Daidai",
+   "subtitle": "Chatmonchy · episodes 132-143",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/NNwnH6Q-YMs",
+     "thumb": "/images/bleach-endings/ed12-thumb.webp",
+     "caption": "Daidai by Chatmonchy"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Chatmonchy",
+       "person": "artist-chatmonchy"
+      }
+     ]
+    }
+   ],
+   "popularity": 273533
+  },
+  {
+   "id": "ed13",
+   "name": "ED 13 · Tane wo Maku Hibi",
+   "shortName": "Tane wo Maku Hibi",
+   "subtitle": "Kōsuke Atari · episodes 144-154",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/tGf48itMSPM",
+     "thumb": "/images/bleach-endings/ed13-thumb.webp",
+     "caption": "Tane wo Maku Hibi by Kōsuke Atari"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Kōsuke Atari",
+       "person": "artist-kosuke-atari"
+      }
+     ]
+    }
+   ],
+   "popularity": 445248
+  },
+  {
+   "id": "ed14",
+   "name": "ED 14 · Kansha.",
+   "shortName": "Kansha.",
+   "subtitle": "RSP · episodes 155-167",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/KA4OGln46yI",
+     "thumb": "/images/bleach-endings/ed14-thumb.webp",
+     "caption": "Kansha. by RSP"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "RSP",
+       "person": "artist-rsp"
+      }
+     ]
+    }
+   ],
+   "popularity": 464889
+  },
+  {
+   "id": "ed15",
+   "name": "ED 15 · Orange",
+   "shortName": "Orange",
+   "subtitle": "Lil'B · episodes 168-179",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/F4DXogJ7qpM",
+     "thumb": "/images/bleach-endings/ed15-thumb.webp",
+     "caption": "Orange by Lil'B"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Lil'B",
+       "person": "artist-lilb"
+      }
+     ]
+    }
+   ],
+   "popularity": 603539
+  },
+  {
+   "id": "ed16",
+   "name": "ED 16 · Gallop",
+   "shortName": "Gallop",
+   "subtitle": "Pe'zmoku · episodes 180-189",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/_LO1pkk91d0",
+     "thumb": "/images/bleach-endings/ed16-thumb.webp",
+     "caption": "Gallop by Pe'zmoku"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Pe'zmoku",
+       "person": "artist-pezmoku"
+      }
+     ]
+    }
+   ],
+   "popularity": 183282
+  },
+  {
+   "id": "ed17",
+   "name": "ED 17 · Hitohira no Hanabira",
+   "shortName": "Hitohira no Hanabira",
+   "subtitle": "Stereopony · episodes 190-201",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/lLEqAvVRMi4",
+     "thumb": "/images/bleach-endings/ed17-thumb.webp",
+     "caption": "Hitohira no Hanabira by Stereopony"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Stereopony",
+       "person": "artist-stereopony"
+      }
+     ]
+    }
+   ],
+   "popularity": 802084
+  },
+  {
+   "id": "ed18",
+   "name": "ED 18 · Sky Chord",
+   "shortName": "Sky Chord",
+   "subtitle": "Shion Tsuji · episodes 202-214",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/VV5Jbun1K50",
+     "thumb": "/images/bleach-endings/ed18-thumb.webp",
+     "caption": "Sky Chord by Shion Tsuji"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Shion Tsuji",
+       "person": "artist-shion-tsuji"
+      }
+     ]
+    }
+   ],
+   "popularity": 644856
+  },
+  {
+   "id": "ed19",
+   "name": "ED 19 · Kimi wo Mamotte, Kimi wo Aishite",
+   "shortName": "Kimi wo Mamotte, Kimi wo Aishite",
+   "subtitle": "Sambomaster · episodes 215-229",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/v1fiGwbXUWU",
+     "thumb": "/images/bleach-endings/ed19-thumb.webp",
+     "caption": "Kimi wo Mamotte, Kimi wo Aishite by Sambomaster"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Sambomaster",
+       "person": "artist-sambomaster"
+      }
+     ]
+    }
+   ],
+   "popularity": 282474
+  },
+  {
+   "id": "ed20",
+   "name": "ED 20 · Mad Surfer",
+   "shortName": "Mad Surfer",
+   "subtitle": "Kenichi Asai · episodes 230-242",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/YtoeVohWVu8",
+     "thumb": "/images/bleach-endings/ed20-thumb.webp",
+     "caption": "Mad Surfer by Kenichi Asai"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Kenichi Asai",
+       "person": "artist-kenichi-asai"
+      }
+     ]
+    }
+   ],
+   "popularity": 190441
+  },
+  {
+   "id": "ed21",
+   "name": "ED 21 · Sakurabito",
+   "shortName": "Sakurabito",
+   "subtitle": "SunSet Swish · episodes 243-255",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/GisDChgSi94",
+     "thumb": "/images/bleach-endings/ed21-thumb.webp",
+     "caption": "Sakurabito by SunSet Swish"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "SunSet Swish",
+       "person": "artist-sunset-swish"
+      }
+     ]
+    }
+   ],
+   "popularity": 240742
+  },
+  {
+   "id": "ed22",
+   "name": "ED 22 · Tabidatsu Kimi e",
+   "shortName": "Tabidatsu Kimi e",
+   "subtitle": "RSP · episodes 256-265",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/_jO29BFiyEs",
+     "thumb": "/images/bleach-endings/ed22-thumb.webp",
+     "caption": "Tabidatsu Kimi e by RSP"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "RSP",
+       "person": "artist-rsp"
+      }
+     ]
+    }
+   ],
+   "popularity": 166720
+  },
+  {
+   "id": "ed23",
+   "name": "ED 23 · Stay Beautiful",
+   "shortName": "Stay Beautiful",
+   "subtitle": "Diggy-MO' · episodes 266-278",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/YPa8M8neYLA",
+     "thumb": "/images/bleach-endings/ed23-thumb.webp",
+     "caption": "Stay Beautiful by Diggy-MO'"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Diggy-MO'",
+       "person": "artist-diggy-mo"
+      }
+     ]
+    }
+   ],
+   "popularity": 157724
+  },
+  {
+   "id": "ed24",
+   "name": "ED 24 · Echoes",
+   "shortName": "Echoes",
+   "subtitle": "Universe · episodes 279-291",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/-eYpa31N86I",
+     "thumb": "/images/bleach-endings/ed24-thumb.webp",
+     "caption": "Echoes by Universe"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Universe",
+       "person": "artist-universe"
+      }
+     ]
+    }
+   ],
+   "popularity": 286784
+  },
+  {
+   "id": "ed25",
+   "name": "ED 25 · Last Moment",
+   "shortName": "Last Moment",
+   "subtitle": "SPYAIR · episodes 292-303",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/cRdYidq7d8g",
+     "thumb": "/images/bleach-endings/ed25-thumb.webp",
+     "caption": "Last Moment by SPYAIR"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "SPYAIR",
+       "person": "artist-spyair"
+      }
+     ]
+    }
+   ],
+   "popularity": 243646
+  },
+  {
+   "id": "ed26",
+   "name": "ED 26 · Song for...",
+   "shortName": "Song for...",
+   "subtitle": "ROOKiEZ is PUNK'D · episodes 304-316",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/68vVfmt_9pM",
+     "thumb": "/images/bleach-endings/ed26-thumb.webp",
+     "caption": "Song for... by ROOKiEZ is PUNK'D"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "ROOKiEZ is PUNK'D",
+       "person": "artist-rookiez-is-punkd"
+      }
+     ]
+    }
+   ],
+   "popularity": 217422
+  },
+  {
+   "id": "ed27",
+   "name": "ED 27 · Aoi Tori",
+   "shortName": "Aoi Tori",
+   "subtitle": "Fumika · episodes 317-329",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/TN6U4GA-cP4",
+     "thumb": "/images/bleach-endings/ed27-thumb.webp",
+     "caption": "Aoi Tori by Fumika"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Fumika",
+       "person": "artist-fumika"
+      }
+     ]
+    }
+   ],
+   "popularity": 431
+  },
+  {
+   "id": "ed28",
+   "name": "ED 28 · Haruka Kanata",
+   "shortName": "Haruka Kanata",
+   "subtitle": "Unlimits · episodes 330-342",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/WG2MvwLfhUQ",
+     "thumb": "/images/bleach-endings/ed28-thumb.webp",
+     "caption": "Haruka Kanata by Unlimits"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Unlimits",
+       "person": "artist-unlimits"
+      }
+     ]
+    }
+   ],
+   "popularity": 7291216
+  },
+  {
+   "id": "ed29",
+   "name": "ED 29 · Re:pray",
+   "shortName": "Re:pray",
+   "subtitle": "Aimer · episodes 343-354",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/O63cbh6EyQ8",
+     "thumb": "/images/bleach-endings/ed29-thumb.webp",
+     "caption": "Re:pray by Aimer"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Aimer",
+       "person": "artist-aimer"
+      }
+     ]
+    }
+   ],
+   "popularity": 611923
+  },
+  {
+   "id": "ed30",
+   "name": "ED 30 · Mask",
+   "shortName": "Mask",
+   "subtitle": "Aqua Timez · episodes 355-366",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/m3OA8ypd3ZY",
+     "thumb": "/images/bleach-endings/ed30-thumb.webp",
+     "caption": "Mask by Aqua Timez"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Aqua Timez",
+       "person": "artist-aqua-timez"
+      }
+     ]
+    }
+   ],
+   "popularity": 591366
+  },
+  {
+   "id": "ed31",
+   "name": "ED 31 · Saihate",
+   "shortName": "Saihate",
+   "subtitle": "SennaRin · TYBW part 1",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/y7Ko9UrIOB4",
+     "thumb": "/images/bleach-endings/ed31-thumb.webp",
+     "caption": "Saihate by SennaRin"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "SennaRin",
+       "person": "artist-sennarin"
+      }
+     ]
+    }
+   ],
+   "popularity": 35804
+  },
+  {
+   "id": "ed32",
+   "name": "ED 32 · Endroll",
+   "shortName": "Endroll",
+   "subtitle": "Yoh Kamiyama · TYBW part 2",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/lYKPh-WUCJ0",
+     "thumb": "/images/bleach-endings/ed32-thumb.webp",
+     "caption": "Endroll by Yoh Kamiyama"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "Yoh Kamiyama",
+       "person": "artist-yoh-kamiyama"
+      }
+     ]
+    }
+   ],
+   "popularity": 104014
+  },
+  {
+   "id": "ed33",
+   "name": "ED 33 · Monochrome",
+   "shortName": "Monochrome",
+   "subtitle": "suisoh · TYBW part 3",
+   "media": [
+    {
+     "kind": "video",
+     "src": "https://youtu.be/04-Yy1CE4vQ",
+     "thumb": "/images/bleach-endings/ed33-thumb.webp",
+     "caption": "Monochrome by suisoh"
+    }
+   ],
+   "sections": [
+    {
+     "category": "credits",
+     "entries": [
+      {
+       "label": "Artist",
+       "text": "suisoh",
+       "person": "artist-suisoh"
+      }
+     ]
+    }
+   ],
+   "popularity": 73617
+  }
+ ]
+}

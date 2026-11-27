@@ -1,0 +1,7 @@
+// Cloudflare Workers, static files only.
+// Build command: npm run build   Deploy command: npx wrangler deploy
+{
+  "name": "tierlore-prototype",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" }
+}
