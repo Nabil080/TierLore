@@ -5,6 +5,10 @@ on:
     branches: [main]
   pull_request:
 
+# The jobs only read the code. The deployment record is created by GitHub itself.
+permissions:
+  contents: read
+
 # Which lists go into the build, in this order (see .env.example)
 env:
   VITE_DATASETS: bleach-characters,bleach-openings,bleach-endings,bleach-osts,demon-slayer,demon-slayer-openings
