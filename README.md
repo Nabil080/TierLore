@@ -49,7 +49,8 @@ the tab and come back to it.
 
 React and TypeScript with Vite, [dnd-kit](https://dndkit.com) for drag and drop and
 [html-to-image](https://github.com/bubkoo/html-to-image) for the PNG export. It's a static site, hosted on
-Cloudflare Workers. There's no backend: the rankings live in `localStorage`.
+Cloudflare Workers and deployed by GitHub Actions on every push to `main`. There's no backend: the
+rankings live in `localStorage`.
 
 Each list is a JSON file in `src/data/` (the format is in `src/types.ts`), with its images in
 `public/images/<list>/`. A small Vite plugin in `vite.config.ts` turns them into one module, so adding a
